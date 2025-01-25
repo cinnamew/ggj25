@@ -40,9 +40,5 @@ public class ParallaxBackground : MonoBehaviour
             float posY = Mathf.Lerp(uElem.localPosition.y, startPositionsUI[i].y + (mPos.y - 0.5f) * (uiMultiplier / (i + 1)), Time.deltaTime);
             uElem.localPosition = new(posX, posY);
         }
-
-        if (Input.GetKeyDown(KeyCode.Space)) {
-            Debug.Log(uiElements[0].position + " : " + uiElements[0].localPosition);
-        }
     }
 }
