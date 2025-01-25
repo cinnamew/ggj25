@@ -20,7 +20,7 @@ public class ParallaxBackground : MonoBehaviour
             startPositionsGO[i] = goElements[i].transform.position;
         }
         for (int i = 0; i < startPositionsUI.Length; i++) {
-            startPositionsUI[i] = uiElements[i].position;
+            startPositionsUI[i] = uiElements[i].localPosition;
         }
     }
 
@@ -36,9 +36,13 @@ public class ParallaxBackground : MonoBehaviour
 
         for (int i = 0; i < uiElements.Length; i++) {
             RectTransform uElem = uiElements[i];
-            float posX = Mathf.Lerp(uElem.transform.position.x, startPositionsUI[i].x + (mPos.x - 0.5f) * (uiMultiplier / (i + 1)), Time.deltaTime);
-            float posY = Mathf.Lerp(uElem.transform.position.y, startPositionsUI[i].y + (mPos.y - 0.5f) * (uiMultiplier / (i + 1)), Time.deltaTime);
-            uElem.position = new(posX, posY);
+            float posX = Mathf.Lerp(uElem.localPosition.x, startPositionsUI[i].x + (mPos.x - 0.5f) * (uiMultiplier / (i + 1)), Time.deltaTime);
+            float posY = Mathf.Lerp(uElem.localPosition.y, startPositionsUI[i].y + (mPos.y - 0.5f) * (uiMultiplier / (i + 1)), Time.deltaTime);
+            uElem.localPosition = new(posX, posY);
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space)) {
+            Debug.Log(uiElements[0].position + " : " + uiElements[0].localPosition);
         }
     }
 }
