@@ -149,7 +149,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canvas: {fileID: 468160629}
-  poolAmount: 1
+  poolAmount: 7
+  speed: 30.51
   bubbleContainer: {fileID: 1012406268}
   bubbleAsset: {fileID: 8263438358969681825, guid: 9fb78c6693680874b84dde25d0b3029b, type: 3}
 --- !u!4 &220189750
