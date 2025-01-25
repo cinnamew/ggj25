@@ -2,15 +2,20 @@ using UnityEngine;
 
 public class Bubble : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private float speed;
+
+    private void Start() 
     {
-        
+        speed = Random.Range(100, 200);
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
+        gameObject.transform.position += speed * Time.deltaTime * Vector3.right;
+    }
+
+    public void ResetSpeed() 
+    {
+        speed = Random.Range(100, 200);
     }
 }
