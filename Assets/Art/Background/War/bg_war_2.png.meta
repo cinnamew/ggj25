@@ -1,0 +1,4745 @@
+fileFormatVersion: 2
+guid: a97e3155cccd52143aa37117aaade01c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7980525743600583975
+    second: bg_war_2_0
+  - first:
+      213: -1745395857745517528
+    second: bg_war_2_1
+  - first:
+      213: -6801072248017579300
+    second: bg_war_2_2
+  - first:
+      213: -5138335585189164453
+    second: bg_war_2_3
+  - first:
+      213: 1604188216442173157
+    second: bg_war_2_4
+  - first:
+      213: -2263826470648992735
+    second: bg_war_2_5
+  - first:
+      213: 4477242003901848087
+    second: bg_war_2_6
+  - first:
+      213: -8876580622647449938
+    second: bg_war_2_7
+  - first:
+      213: -3094067482091564918
+    second: bg_war_2_8
+  - first:
+      213: 7365602991901659950
+    second: bg_war_2_9
+  - first:
+      213: -2469482491054349983
+    second: bg_war_2_10
+  - first:
+      213: -8552215254249327469
+    second: bg_war_2_11
+  - first:
+      213: 4767199849310290180
+    second: bg_war_2_12
+  - first:
+      213: 4233099938975324213
+    second: bg_war_2_13
+  - first:
+      213: -2628683255450732058
+    second: bg_war_2_14
+  - first:
+      213: 5375452363756962913
+    second: bg_war_2_15
+  - first:
+      213: 5406231496939139843
+    second: bg_war_2_16
+  - first:
+      213: -1451599921727543835
+    second: bg_war_2_17
+  - first:
+      213: 7777808022893746594
+    second: bg_war_2_18
+  - first:
+      213: -1507654940903462006
+    second: bg_war_2_19
+  - first:
+      213: 1360986967164207395
+    second: bg_war_2_20
+  - first:
+      213: -6294248225079516860
+    second: bg_war_2_21
+  - first:
+      213: 2046083560671423575
+    second: bg_war_2_22
+  - first:
+      213: -6701975307833504962
+    second: bg_war_2_23
+  - first:
+      213: 684368918671054264
+    second: bg_war_2_24
+  - first:
+      213: 6863278395247494990
+    second: bg_war_2_25
+  - first:
+      213: 2143050462178239738
+    second: bg_war_2_26
+  - first:
+      213: 3800817825494950471
+    second: bg_war_2_27
+  - first:
+      213: 1455773371122773672
+    second: bg_war_2_28
+  - first:
+      213: 241042924270091800
+    second: bg_war_2_29
+  - first:
+      213: -9098323515335231590
+    second: bg_war_2_30
+  - first:
+      213: -7384922590589407546
+    second: bg_war_2_31
+  - first:
+      213: -5920538964217843331
+    second: bg_war_2_32
+  - first:
+      213: -6420826529722085992
+    second: bg_war_2_33
+  - first:
+      213: -5900408418424776755
+    second: bg_war_2_34
+  - first:
+      213: -1461065482778580740
+    second: bg_war_2_35
+  - first:
+      213: -861899886789343221
+    second: bg_war_2_36
+  - first:
+      213: -5641229135488637770
+    second: bg_war_2_37
+  - first:
+      213: 8001294828363000341
+    second: bg_war_2_38
+  - first:
+      213: -6923230287564666040
+    second: bg_war_2_39
+  - first:
+      213: -3084792088790681904
+    second: bg_war_2_40
+  - first:
+      213: -5029748726572613660
+    second: bg_war_2_41
+  - first:
+      213: -4200609767471336352
+    second: bg_war_2_42
+  - first:
+      213: 2059555945747541769
+    second: bg_war_2_43
+  - first:
+      213: -6710680422542314197
+    second: bg_war_2_44
+  - first:
+      213: -6237323138049814392
+    second: bg_war_2_45
+  - first:
+      213: -7548087351169512274
+    second: bg_war_2_46
+  - first:
+      213: 6527997127880539955
+    second: bg_war_2_47
+  - first:
+      213: -4659847248587694875
+    second: bg_war_2_48
+  - first:
+      213: 9169696347739285479
+    second: bg_war_2_49
+  - first:
+      213: 6806343394813348542
+    second: bg_war_2_50
+  - first:
+      213: 4158219410090231782
+    second: bg_war_2_51
+  - first:
+      213: 4337604909530011718
+    second: bg_war_2_52
+  - first:
+      213: 5957446002198880531
+    second: bg_war_2_53
+  - first:
+      213: -3820013711982574429
+    second: bg_war_2_54
+  - first:
+      213: 2900719371319845705
+    second: bg_war_2_55
+  - first:
+      213: -5657430966904834206
+    second: bg_war_2_56
+  - first:
+      213: -2424273983546704261
+    second: bg_war_2_57
+  - first:
+      213: 421341291685375513
+    second: bg_war_2_58
+  - first:
+      213: -7918484975385647532
+    second: bg_war_2_59
+  - first:
+      213: -6334488045554503191
+    second: bg_war_2_60
+  - first:
+      213: 6990049751205901978
+    second: bg_war_2_61
+  - first:
+      213: 6057182887499131037
+    second: bg_war_2_62
+  - first:
+      213: -8463608098337133145
+    second: bg_war_2_63
+  - first:
+      213: -83587386615203544
+    second: bg_war_2_64
+  - first:
+      213: 6008389493008487080
+    second: bg_war_2_65
+  - first:
+      213: 6130827556299079177
+    second: bg_war_2_66
+  - first:
+      213: 2786316295910799687
+    second: bg_war_2_67
+  - first:
+      213: 6955386466786012616
+    second: bg_war_2_68
+  - first:
+      213: 6515757662838143404
+    second: bg_war_2_69
+  - first:
+      213: -8581353779539893163
+    second: bg_war_2_70
+  - first:
+      213: 7137620251161693191
+    second: bg_war_2_71
+  - first:
+      213: -6652484858288837339
+    second: bg_war_2_72
+  - first:
+      213: -5486076768816943556
+    second: bg_war_2_73
+  - first:
+      213: -4015422974336979231
+    second: bg_war_2_74
+  - first:
+      213: -4312720081968504827
+    second: bg_war_2_75
+  - first:
+      213: 6541277084020375928
+    second: bg_war_2_76
+  - first:
+      213: -3235317206260799802
+    second: bg_war_2_77
+  - first:
+      213: -7646160954659908071
+    second: bg_war_2_78
+  - first:
+      213: 1373973866765402812
+    second: bg_war_2_79
+  - first:
+      213: -5317875638970948989
+    second: bg_war_2_80
+  - first:
+      213: -2725448950465275081
+    second: bg_war_2_81
+  - first:
+      213: -8590358761996122215
+    second: bg_war_2_82
+  - first:
+      213: 884343104947162095
+    second: bg_war_2_83
+  - first:
+      213: 8039264403892331831
+    second: bg_war_2_84
+  - first:
+      213: 7475340310163706525
+    second: bg_war_2_85
+  - first:
+      213: -5955069705798680444
+    second: bg_war_2_86
+  - first:
+      213: -6271523932269607922
+    second: bg_war_2_87
+  - first:
+      213: 820844945500768441
+    second: bg_war_2_88
+  - first:
+      213: -4703716310311944075
+    second: bg_war_2_89
+  - first:
+      213: -494721776451007019
+    second: bg_war_2_90
+  - first:
+      213: 2550207295599880079
+    second: bg_war_2_91
+  - first:
+      213: 996053153858353824
+    second: bg_war_2_92
+  - first:
+      213: -4277123310881573024
+    second: bg_war_2_93
+  - first:
+      213: 3430207453438449211
+    second: bg_war_2_94
+  - first:
+      213: -4621585749880323334
+    second: bg_war_2_95
+  - first:
+      213: 4383614255482138326
+    second: bg_war_2_96
+  - first:
+      213: 4143813205087370628
+    second: bg_war_2_97
+  - first:
+      213: -291521739144557715
+    second: bg_war_2_98
+  - first:
+      213: -8440899065974609555
+    second: bg_war_2_99
+  - first:
+      213: -8640386542424515882
+    second: bg_war_2_100
+  - first:
+      213: 1905588711690615680
+    second: bg_war_2_101
+  - first:
+      213: 2626333272774232406
+    second: bg_war_2_102
+  - first:
+      213: 5595206516322920712
+    second: bg_war_2_103
+  - first:
+      213: -5472923016985958532
+    second: bg_war_2_104
+  - first:
+      213: 4786545728400135345
+    second: bg_war_2_105
+  - first:
+      213: -7402846583884106475
+    second: bg_war_2_106
+  - first:
+      213: -2508059861013419998
+    second: bg_war_2_107
+  - first:
+      213: 2354405045535992471
+    second: bg_war_2_108
+  - first:
+      213: 3816317165714528167
+    second: bg_war_2_109
+  - first:
+      213: 1787752176820799266
+    second: bg_war_2_110
+  - first:
+      213: 7237878131104059837
+    second: bg_war_2_111
+  - first:
+      213: -5586392961719461748
+    second: bg_war_2_112
+  - first:
+      213: 1598278704831310099
+    second: bg_war_2_113
+  - first:
+      213: 4657236766316198665
+    second: bg_war_2_114
+  - first:
+      213: 772903246243952948
+    second: bg_war_2_115
+  - first:
+      213: 2010682282378899343
+    second: bg_war_2_116
+  - first:
+      213: -1205373162141137168
+    second: bg_war_2_117
+  - first:
+      213: 294350412636338830
+    second: bg_war_2_118
+  - first:
+      213: -2784263447000339000
+    second: bg_war_2_119
+  - first:
+      213: -7779235523894489142
+    second: bg_war_2_120
+  - first:
+      213: -811965600843103322
+    second: bg_war_2_121
+  - first:
+      213: 383957725373287311
+    second: bg_war_2_122
+  - first:
+      213: -5346629138766742959
+    second: bg_war_2_123
+  - first:
+      213: 643898970486664786
+    second: bg_war_2_124
+  - first:
+      213: -9212225410235342573
+    second: bg_war_2_125
+  - first:
+      213: -2425660246546965642
+    second: bg_war_2_126
+  - first:
+      213: 5044754765284361103
+    second: bg_war_2_127
+  - first:
+      213: 3388580999261587417
+    second: bg_war_2_128
+  - first:
+      213: 4555002620987751959
+    second: bg_war_2_129
+  - first:
+      213: -1811967171466501016
+    second: bg_war_2_130
+  - first:
+      213: -765878580569435075
+    second: bg_war_2_131
+  - first:
+      213: 7051311538079198058
+    second: bg_war_2_132
+  - first:
+      213: -1988577682911701749
+    second: bg_war_2_133
+  - first:
+      213: 2087405276659821621
+    second: bg_war_2_134
+  - first:
+      213: 1111658554646071770
+    second: bg_war_2_135
+  - first:
+      213: -1811404183823283447
+    second: bg_war_2_136
+  - first:
+      213: 6132554732983020902
+    second: bg_war_2_137
+  - first:
+      213: 5471477237121535818
+    second: bg_war_2_138
+  - first:
+      213: 7671732480369415129
+    second: bg_war_2_139
+  - first:
+      213: -5717106215416969525
+    second: bg_war_2_140
+  - first:
+      213: -1338744927082126235
+    second: bg_war_2_141
+  - first:
+      213: -8873526417470309261
+    second: bg_war_2_142
+  - first:
+      213: 1856080292321364637
+    second: bg_war_2_143
+  - first:
+      213: 4970192538304188661
+    second: bg_war_2_144
+  - first:
+      213: -502944609917725504
+    second: bg_war_2_145
+  - first:
+      213: -4292319077443996197
+    second: bg_war_2_146
+  - first:
+      213: 5423733838891723843
+    second: bg_war_2_147
+  - first:
+      213: -9004531427476813129
+    second: bg_war_2_148
+  - first:
+      213: -1340943291485280506
+    second: bg_war_2_149
+  - first:
+      213: -4566738953119728760
+    second: bg_war_2_150
+  - first:
+      213: 981399006002996288
+    second: bg_war_2_151
+  - first:
+      213: 2357014531016170727
+    second: bg_war_2_152
+  - first:
+      213: -5847077372618032267
+    second: bg_war_2_153
+  - first:
+      213: -5394071545819233605
+    second: bg_war_2_154
+  - first:
+      213: 512371550609417441
+    second: bg_war_2_155
+  - first:
+      213: 1972675830644767368
+    second: bg_war_2_156
+  - first:
+      213: 2660589529724719236
+    second: bg_war_2_157
+  - first:
+      213: 8552048020948366343
+    second: bg_war_2_158
+  - first:
+      213: -5452169826019312986
+    second: bg_war_2_159
+  - first:
+      213: -8340144461169548571
+    second: bg_war_2_160
+  - first:
+      213: 386574055494046138
+    second: bg_war_2_161
+  - first:
+      213: -7495292953468086765
+    second: bg_war_2_162
+  - first:
+      213: -7008523502850910014
+    second: bg_war_2_163
+  - first:
+      213: 3133124348031657468
+    second: bg_war_2_164
+  - first:
+      213: -890476682753405088
+    second: bg_war_2_165
+  - first:
+      213: 5376263446327960172
+    second: bg_war_2_166
+  - first:
+      213: -4270660518852590921
+    second: bg_war_2_167
+  - first:
+      213: 2390809232888255439
+    second: bg_war_2_168
+  - first:
+      213: 2248078877634085272
+    second: bg_war_2_169
+  - first:
+      213: -8302607263494797263
+    second: bg_war_2_170
+  - first:
+      213: 4163639031975610627
+    second: bg_war_2_171
+  - first:
+      213: 7218368075923405262
+    second: bg_war_2_172
+  - first:
+      213: -7916335199312468861
+    second: bg_war_2_173
+  - first:
+      213: -3652578359370988694
+    second: bg_war_2_174
+  - first:
+      213: 2238033356048847411
+    second: bg_war_2_175
+  - first:
+      213: 9029828167310498891
+    second: bg_war_2_176
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_war_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3480
+        height: 2160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7254c2491e580ce60800000000000000
+      internalID: 7980525743600583975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824e3a207bb17c7e0800000000000000
+      internalID: -1745395857745517528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 288
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd21525f2dcbd91a0800000000000000
+      internalID: -6801072248017579300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 281
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a0d046207f0b8b0800000000000000
+      internalID: -5138335585189164453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 286
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e637e9fea8334610800000000000000
+      internalID: 1604188216442173157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c27d7b1d54590e0800000000000000
+      internalID: -2263826470648992735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a170091eb522e30800000000000000
+      internalID: 4477242003901848087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 939
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6abfe24fc00d480800000000000000
+      internalID: -8876580622647449938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 668
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8058d2a40aaf05d0800000000000000
+      internalID: -3094067482091564918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 661
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e235ad085e0e73660800000000000000
+      internalID: 7365602991901659950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 693
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161a8ad12c2aabdd0800000000000000
+      internalID: -2469482491054349983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 733
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394bacfa98d605980800000000000000
+      internalID: -8552215254249327469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 593
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4018f67510f782240800000000000000
+      internalID: 4767199849310290180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 635
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5381a5177fdfeba30800000000000000
+      internalID: 4233099938975324213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 716
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e977dba18a058bd0800000000000000
+      internalID: -2628683255450732058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 731
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16484c8c171799a40800000000000000
+      internalID: 5375452363756962913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 707
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303f59c27eac60b40800000000000000
+      internalID: 5406231496939139843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 941
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5e175ef81eadbe0800000000000000
+      internalID: -1451599921727543835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 595
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9d3cf203350fb60800000000000000
+      internalID: 7777808022893746594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 672
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b2693b1dbb31be0800000000000000
+      internalID: -1507654940903462006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 591
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32142c19f6233e210800000000000000
+      internalID: 1360986967164207395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 635
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441a000769656a8a0800000000000000
+      internalID: -6294248225079516860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 648
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c26966826256c10800000000000000
+      internalID: 2046083560671423575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 622
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b052357fccdf2a0800000000000000
+      internalID: -6701975307833504962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 705
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5d4b4d7ed5f7900800000000000000
+      internalID: 684368918671054264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 609
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47075756534f3f50800000000000000
+      internalID: 6863278395247494990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 700
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4eedd7a05adbd10800000000000000
+      internalID: 2143050462178239738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_27
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 614
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7426998bca73fb430800000000000000
+      internalID: 3800817825494950471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 757
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aeee330b22f33410800000000000000
+      internalID: 1455773371122773672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_29
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 675
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e7db4334b585300800000000000000
+      internalID: 241042924270091800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_30
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 440
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a973cd0c7f24cb180800000000000000
+      internalID: -9098323515335231590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 541
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce2926e70c738990800000000000000
+      internalID: -7384922590589407546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_32
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 349
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71bfee2e2506dda0800000000000000
+      internalID: -5920538964217843331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 40
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dc28b4a44a4e6a0800000000000000
+      internalID: -6420826529722085992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_34
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 417
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7111e1ec98d1ea0800000000000000
+      internalID: -5900408418424776755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_35
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 13
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8e5693fa049bbe0800000000000000
+      internalID: -1461065482778580740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_36
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08c8f79e9ae904f0800000000000000
+      internalID: -861899886789343221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_37
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 45
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4ad926df356b1b0800000000000000
+      internalID: -5641229135488637770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_38
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 40
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a2fb3f04f4a0f60800000000000000
+      internalID: 8001294828363000341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 319
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b8b7bfbbebbef90800000000000000
+      internalID: -6923230287564666040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_40
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d632bd60fd9035d0800000000000000
+      internalID: -3084792088790681904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_41
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 24
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef7a239e2eb23ab0800000000000000
+      internalID: -5029748726572613660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_42
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064b5d91caf64b5c0800000000000000
+      internalID: -4200609767471336352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_43
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 609
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f635d7833059c10800000000000000
+      internalID: 2059555945747541769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_44
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 55
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25723dd5bfded2a0800000000000000
+      internalID: -6710680422542314197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_45
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 345
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880573717a39079a0800000000000000
+      internalID: -6237323138049814392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_46
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 543
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac0cebab8ecf3790800000000000000
+      internalID: -7548087351169512274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_47
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 401
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ff61e0dca189a50800000000000000
+      internalID: 6527997127880539955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_48
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 160
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec5958cd95e45fb0800000000000000
+      internalID: -4659847248587694875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_49
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 29
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e76231ce3e414f70800000000000000
+      internalID: 9169696347739285479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_50
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 275
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba0d2b814df47e50800000000000000
+      internalID: 6806343394813348542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_51
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 162
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e70094b586f4b930800000000000000
+      internalID: 4158219410090231782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_52
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648d6800fa4423c30800000000000000
+      internalID: 4337604909530011718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_53
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 10
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311a2a933991da250800000000000000
+      internalID: 5957446002198880531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_54
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 595
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4482ca4c59cfac0800000000000000
+      internalID: -3820013711982574429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_55
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 604
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9432d9846ec614820800000000000000
+      internalID: 2900719371319845705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_56
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 151
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267b75c8284cc71b0800000000000000
+      internalID: -5657430966904834206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_57
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 204
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e3a7408af3b5ed0800000000000000
+      internalID: -2424273983546704261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_58
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 64
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e6c142ca7e8d500800000000000000
+      internalID: 421341291685375513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_59
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 202
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456eeda6ed3eb1290800000000000000
+      internalID: -7918484975385647532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_60
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 609
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1f3c22fa06718a0800000000000000
+      internalID: -6334488045554503191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_61
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 504
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a967feeb635a10160800000000000000
+      internalID: 6990049751205901978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_62
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 147
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98e5fc6ebf6f0450800000000000000
+      internalID: 6057182887499131037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_63
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 272
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adee74d6493b8a80800000000000000
+      internalID: -8463608098337133145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_64
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 530
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829f819f6b907def0800000000000000
+      internalID: -83587386615203544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_65
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2d5faf866126350800000000000000
+      internalID: 6008389493008487080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 45
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ef1601e23151550800000000000000
+      internalID: 6130827556299079177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_67
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 17
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74935a998ebfaa620800000000000000
+      internalID: 2786316295910799687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_68
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 232
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cde65ce32f768060800000000000000
+      internalID: 6955386466786012616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_69
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 54
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca93ff7821f9c6a50800000000000000
+      internalID: 6515757662838143404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_70
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 239
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554a1961438e8e880800000000000000
+      internalID: -8581353779539893163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_71
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 225
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c802c3dcbed0360800000000000000
+      internalID: 7137620251161693191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_72
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 90
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d670c8440ada3a0800000000000000
+      internalID: -6652484858288837339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_73
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 232
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ea428ce3a8dd3b0800000000000000
+      internalID: -5486076768816943556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_74
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 33
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eea3b7541a5648c0800000000000000
+      internalID: -4015422974336979231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_75
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500e29a6fe32624c0800000000000000
+      internalID: -4312720081968504827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_76
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 598
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871007ac9d847ca50800000000000000
+      internalID: 6541277084020375928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_77
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 279
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6ad117428d913d0800000000000000
+      internalID: -3235317206260799802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_78
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 43
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916d8027f1163e590800000000000000
+      internalID: -7646160954659908071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_79
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2c833c3f5511310800000000000000
+      internalID: 1373973866765402812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_80
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 69
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382ee6b184c1336b0800000000000000
+      internalID: -5317875638970948989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_81
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 565
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b5e0e9e924d2ad0800000000000000
+      internalID: -2725448950465275081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_82
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 228
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9978e0a383ae8c880800000000000000
+      internalID: -8590358761996122215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_83
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 279
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb01f55e51d54c00800000000000000
+      internalID: 884343104947162095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_84
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 220
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735e179a164319f60800000000000000
+      internalID: 8039264403892331831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_85
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 80
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d925772f76ebdb760800000000000000
+      internalID: 7475340310163706525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_86
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 90
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4800e2567a75b5da0800000000000000
+      internalID: -5955069705798680444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_87
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 321
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0485b8263217f8a0800000000000000
+      internalID: -6271523932269607922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_88
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 480
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b88f30012a346b00800000000000000
+      internalID: 820844945500768441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_89
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 319
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57045a7efea09beb0800000000000000
+      internalID: -4703716310311944075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_90
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 187
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddccfb5a256229f0800000000000000
+      internalID: -494721776451007019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_91
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 509
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8727d51608246320800000000000000
+      internalID: 2550207295599880079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_92
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 483
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa722de011b2dd00800000000000000
+      internalID: 996053153858353824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_93
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 504
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0677c5a820b94a4c0800000000000000
+      internalID: -4277123310881573024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_94
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 394
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b369810418b8a9f20800000000000000
+      internalID: 3430207453438449211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_95
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 673
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af240672f34dcdfb0800000000000000
+      internalID: -4621585749880323334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_96
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 410
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dee952a0f9b5dc30800000000000000
+      internalID: 4383614255482138326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_97
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d3ec8b728c18930800000000000000
+      internalID: 4143813205087370628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_98
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 389
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b0cf5d58e44fbf0800000000000000
+      internalID: -291521739144557715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_99
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 455
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6928a37507ebda80800000000000000
+      internalID: -8440899065974609555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_100
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 377
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da98b8e73e271880800000000000000
+      internalID: -8640386542424515882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_101
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 398
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b305846d2027a10800000000000000
+      internalID: 1905588711690615680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_102
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 551
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6594f79523c927420800000000000000
+      internalID: 2626333272774232406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_103
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 394
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809e0629eaa26ad40800000000000000
+      internalID: 5595206516322920712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_104
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 464
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c772e7943854c04b0800000000000000
+      internalID: -5472923016985958532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_105
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 401
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b41472daf93d6240800000000000000
+      internalID: 4786545728400135345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_106
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 394
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515bfd0014ec34990800000000000000
+      internalID: -7402846583884106475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_107
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 686
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22821ec38d4913dd0800000000000000
+      internalID: -2508059861013419998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_108
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 464
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a6f8c2ae68ca020800000000000000
+      internalID: 2354405045535992471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_109
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7d3a41e3846f430800000000000000
+      internalID: 3816317165714528167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_110
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 422
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227c5d5022f5fc810800000000000000
+      internalID: 1787752176820799266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_111
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 691
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db19604ffcb127460800000000000000
+      internalID: 7237878131104059837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_112
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 460
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8818f403352972b0800000000000000
+      internalID: -5586392961719461748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_113
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 401
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319aa85930a3e2610800000000000000
+      internalID: 1598278704831310099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_114
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 629
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b7a23f924d1a040800000000000000
+      internalID: 4657236766316198665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_115
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 455
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439fd1e4867e9ba00800000000000000
+      internalID: 772903246243952948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_116
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 471
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fad5df1e067eb10800000000000000
+      internalID: 2010682282378899343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_117
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 384
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6c9c0de77a54fe0800000000000000
+      internalID: -1205373162141137168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_118
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 473
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8abda8042eb51400800000000000000
+      internalID: 294350412636338830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_119
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 638
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cda078852f4c59d0800000000000000
+      internalID: -2784263447000339000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_120
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 441
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf4b26d18a9a0490800000000000000
+      internalID: -7779235523894489142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_121
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 426
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a309e786915bb4f0800000000000000
+      internalID: -811965600843103322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_122
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 408
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b44a55487145500800000000000000
+      internalID: 383957725373287311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_123
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 438
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a3e0e3025fcc5b0800000000000000
+      internalID: -5346629138766742959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_124
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ee81fb3b69fe800800000000000000
+      internalID: 643898970486664786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_125
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 417
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31168104cc9972080800000000000000
+      internalID: -9212225410235342573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_126
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 407
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b18c28bd2565ed0800000000000000
+      internalID: -2425660246546965642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_127
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 375
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83cbb31bb1920640800000000000000
+      internalID: 5044754765284361103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_128
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 924
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d700a12778a60f20800000000000000
+      internalID: 3388580999261587417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_129
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 401
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eb2f610ce963f30800000000000000
+      internalID: 4555002620987751959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_130
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 387
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864e11035799ad6e0800000000000000
+      internalID: -1811967171466501016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_131
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3414102d7d0f55f0800000000000000
+      internalID: -765878580569435075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_132
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 448
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6be2d30c7a4bd160800000000000000
+      internalID: 7051311538079198058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_133
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0557c122272764e0800000000000000
+      internalID: -1988577682911701749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_134
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 108
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ca5912a04f7fc10800000000000000
+      internalID: 2087405276659821621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_135
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 0
+        width: 284
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9043dc0976d6f00800000000000000
+      internalID: 1111658554646071770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_136
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 28
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b8e86fd799cd6e0800000000000000
+      internalID: -1811404183823283447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_137
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66de719b9063b1550800000000000000
+      internalID: 6132554732983020902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_138
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 0
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fc34bde879eeb40800000000000000
+      internalID: 5471477237121535818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_139
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 37
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3de385b08777a60800000000000000
+      internalID: 7671732480369415129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_140
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 366
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6c4e60032c8a0b0800000000000000
+      internalID: -5717106215416969525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_141
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 385
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564e960f492db6de0800000000000000
+      internalID: -1338744927082126235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_142
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 921
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c33adbcb6ead480800000000000000
+      internalID: -8873526417470309261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_143
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 910
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a0b62213f12c910800000000000000
+      internalID: 1856080292321364637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_144
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 864
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f01be6c7cba9f440800000000000000
+      internalID: 4970192538304188661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_145
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 909
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c41820ca8e2509f0800000000000000
+      internalID: -502944609917725504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_146
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 917
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5715e6a8e9e64c0800000000000000
+      internalID: -4292319077443996197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_147
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 898
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c2867b039f44b40800000000000000
+      internalID: 5423733838891723843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_148
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 892
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba4760ff5a790380800000000000000
+      internalID: -9004531427476813129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_149
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 602
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607a3175e23046de0800000000000000
+      internalID: -1340943291485280506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_150
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 933
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bfb552e1faf90c0800000000000000
+      internalID: -4566738953119728760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_151
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 0
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044eabf3231ae9d00800000000000000
+      internalID: 981399006002996288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_152
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 784
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec17ab5a3cc5b020800000000000000
+      internalID: 2357014531016170727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_153
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bb0e6db120bdea0800000000000000
+      internalID: -5847077372618032267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_154
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 914
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2076212886425b0800000000000000
+      internalID: -5394071545819233605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_155
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 932
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4271be53f4c1700800000000000000
+      internalID: 512371550609417441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_156
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 0
+        width: 71
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a749e573a506b10800000000000000
+      internalID: 1972675830644767368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_157
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4809d54b4105ce420800000000000000
+      internalID: 2660589529724719236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_158
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 30
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704b5b64d5afea670800000000000000
+      internalID: 8552048020948366343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_159
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 622
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaf3091e600654b0800000000000000
+      internalID: -5452169826019312986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_160
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 696
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e22c80fccad14c80800000000000000
+      internalID: -8340144461169548571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_161
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 927
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1da192e036d5500800000000000000
+      internalID: 386574055494046138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_162
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316db0545ce5bf790800000000000000
+      internalID: -7495292953468086765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_163
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 0
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c85894c109bcbe90800000000000000
+      internalID: -7008523502850910014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_164
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 6
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5ed899ef71b7b20800000000000000
+      internalID: 3133124348031657468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_165
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 685
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f07bbcc2464a3f0800000000000000
+      internalID: -890476682753405088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_166
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 691
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62ab49ae135c9a40800000000000000
+      internalID: 5376263446327960172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_167
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 630
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2818192e09bb4c0800000000000000
+      internalID: -4270660518852590921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_168
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 638
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3570c845cdd2120800000000000000
+      internalID: 2390809232888255439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_169
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 0
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891407014d7c23f10800000000000000
+      internalID: 2248078877634085272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_170
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13880d5dea637cc80800000000000000
+      internalID: -8302607263494797263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_171
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 924
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3098bd1c3a738c930800000000000000
+      internalID: 4163639031975610627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_172
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 888
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec93f6f358bcc2460800000000000000
+      internalID: 7218368075923405262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_173
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3842f0a2417832290800000000000000
+      internalID: -7916335199312468861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_174
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 49
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63c967955f6f4dc0800000000000000
+      internalID: -3652578359370988694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_175
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 8
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33254ceca771f0f10800000000000000
+      internalID: 2238033356048847411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_war_2_176
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 0
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cdb5740e4605d70800000000000000
+      internalID: 9029828167310498891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_war_2_0: 7980525743600583975
+      bg_war_2_1: -1745395857745517528
+      bg_war_2_10: -2469482491054349983
+      bg_war_2_100: -8640386542424515882
+      bg_war_2_101: 1905588711690615680
+      bg_war_2_102: 2626333272774232406
+      bg_war_2_103: 5595206516322920712
+      bg_war_2_104: -5472923016985958532
+      bg_war_2_105: 4786545728400135345
+      bg_war_2_106: -7402846583884106475
+      bg_war_2_107: -2508059861013419998
+      bg_war_2_108: 2354405045535992471
+      bg_war_2_109: 3816317165714528167
+      bg_war_2_11: -8552215254249327469
+      bg_war_2_110: 1787752176820799266
+      bg_war_2_111: 7237878131104059837
+      bg_war_2_112: -5586392961719461748
+      bg_war_2_113: 1598278704831310099
+      bg_war_2_114: 4657236766316198665
+      bg_war_2_115: 772903246243952948
+      bg_war_2_116: 2010682282378899343
+      bg_war_2_117: -1205373162141137168
+      bg_war_2_118: 294350412636338830
+      bg_war_2_119: -2784263447000339000
+      bg_war_2_12: 4767199849310290180
+      bg_war_2_120: -7779235523894489142
+      bg_war_2_121: -811965600843103322
+      bg_war_2_122: 383957725373287311
+      bg_war_2_123: -5346629138766742959
+      bg_war_2_124: 643898970486664786
+      bg_war_2_125: -9212225410235342573
+      bg_war_2_126: -2425660246546965642
+      bg_war_2_127: 5044754765284361103
+      bg_war_2_128: 3388580999261587417
+      bg_war_2_129: 4555002620987751959
+      bg_war_2_13: 4233099938975324213
+      bg_war_2_130: -1811967171466501016
+      bg_war_2_131: -765878580569435075
+      bg_war_2_132: 7051311538079198058
+      bg_war_2_133: -1988577682911701749
+      bg_war_2_134: 2087405276659821621
+      bg_war_2_135: 1111658554646071770
+      bg_war_2_136: -1811404183823283447
+      bg_war_2_137: 6132554732983020902
+      bg_war_2_138: 5471477237121535818
+      bg_war_2_139: 7671732480369415129
+      bg_war_2_14: -2628683255450732058
+      bg_war_2_140: -5717106215416969525
+      bg_war_2_141: -1338744927082126235
+      bg_war_2_142: -8873526417470309261
+      bg_war_2_143: 1856080292321364637
+      bg_war_2_144: 4970192538304188661
+      bg_war_2_145: -502944609917725504
+      bg_war_2_146: -4292319077443996197
+      bg_war_2_147: 5423733838891723843
+      bg_war_2_148: -9004531427476813129
+      bg_war_2_149: -1340943291485280506
+      bg_war_2_15: 5375452363756962913
+      bg_war_2_150: -4566738953119728760
+      bg_war_2_151: 981399006002996288
+      bg_war_2_152: 2357014531016170727
+      bg_war_2_153: -5847077372618032267
+      bg_war_2_154: -5394071545819233605
+      bg_war_2_155: 512371550609417441
+      bg_war_2_156: 1972675830644767368
+      bg_war_2_157: 2660589529724719236
+      bg_war_2_158: 8552048020948366343
+      bg_war_2_159: -5452169826019312986
+      bg_war_2_16: 5406231496939139843
+      bg_war_2_160: -8340144461169548571
+      bg_war_2_161: 386574055494046138
+      bg_war_2_162: -7495292953468086765
+      bg_war_2_163: -7008523502850910014
+      bg_war_2_164: 3133124348031657468
+      bg_war_2_165: -890476682753405088
+      bg_war_2_166: 5376263446327960172
+      bg_war_2_167: -4270660518852590921
+      bg_war_2_168: 2390809232888255439
+      bg_war_2_169: 2248078877634085272
+      bg_war_2_17: -1451599921727543835
+      bg_war_2_170: -8302607263494797263
+      bg_war_2_171: 4163639031975610627
+      bg_war_2_172: 7218368075923405262
+      bg_war_2_173: -7916335199312468861
+      bg_war_2_174: -3652578359370988694
+      bg_war_2_175: 2238033356048847411
+      bg_war_2_176: 9029828167310498891
+      bg_war_2_18: 7777808022893746594
+      bg_war_2_19: -1507654940903462006
+      bg_war_2_2: -6801072248017579300
+      bg_war_2_20: 1360986967164207395
+      bg_war_2_21: -6294248225079516860
+      bg_war_2_22: 2046083560671423575
+      bg_war_2_23: -6701975307833504962
+      bg_war_2_24: 684368918671054264
+      bg_war_2_25: 6863278395247494990
+      bg_war_2_26: 2143050462178239738
+      bg_war_2_27: 3800817825494950471
+      bg_war_2_28: 1455773371122773672
+      bg_war_2_29: 241042924270091800
+      bg_war_2_3: -5138335585189164453
+      bg_war_2_30: -9098323515335231590
+      bg_war_2_31: -7384922590589407546
+      bg_war_2_32: -5920538964217843331
+      bg_war_2_33: -6420826529722085992
+      bg_war_2_34: -5900408418424776755
+      bg_war_2_35: -1461065482778580740
+      bg_war_2_36: -861899886789343221
+      bg_war_2_37: -5641229135488637770
+      bg_war_2_38: 8001294828363000341
+      bg_war_2_39: -6923230287564666040
+      bg_war_2_4: 1604188216442173157
+      bg_war_2_40: -3084792088790681904
+      bg_war_2_41: -5029748726572613660
+      bg_war_2_42: -4200609767471336352
+      bg_war_2_43: 2059555945747541769
+      bg_war_2_44: -6710680422542314197
+      bg_war_2_45: -6237323138049814392
+      bg_war_2_46: -7548087351169512274
+      bg_war_2_47: 6527997127880539955
+      bg_war_2_48: -4659847248587694875
+      bg_war_2_49: 9169696347739285479
+      bg_war_2_5: -2263826470648992735
+      bg_war_2_50: 6806343394813348542
+      bg_war_2_51: 4158219410090231782
+      bg_war_2_52: 4337604909530011718
+      bg_war_2_53: 5957446002198880531
+      bg_war_2_54: -3820013711982574429
+      bg_war_2_55: 2900719371319845705
+      bg_war_2_56: -5657430966904834206
+      bg_war_2_57: -2424273983546704261
+      bg_war_2_58: 421341291685375513
+      bg_war_2_59: -7918484975385647532
+      bg_war_2_6: 4477242003901848087
+      bg_war_2_60: -6334488045554503191
+      bg_war_2_61: 6990049751205901978
+      bg_war_2_62: 6057182887499131037
+      bg_war_2_63: -8463608098337133145
+      bg_war_2_64: -83587386615203544
+      bg_war_2_65: 6008389493008487080
+      bg_war_2_66: 6130827556299079177
+      bg_war_2_67: 2786316295910799687
+      bg_war_2_68: 6955386466786012616
+      bg_war_2_69: 6515757662838143404
+      bg_war_2_7: -8876580622647449938
+      bg_war_2_70: -8581353779539893163
+      bg_war_2_71: 7137620251161693191
+      bg_war_2_72: -6652484858288837339
+      bg_war_2_73: -5486076768816943556
+      bg_war_2_74: -4015422974336979231
+      bg_war_2_75: -4312720081968504827
+      bg_war_2_76: 6541277084020375928
+      bg_war_2_77: -3235317206260799802
+      bg_war_2_78: -7646160954659908071
+      bg_war_2_79: 1373973866765402812
+      bg_war_2_8: -3094067482091564918
+      bg_war_2_80: -5317875638970948989
+      bg_war_2_81: -2725448950465275081
+      bg_war_2_82: -8590358761996122215
+      bg_war_2_83: 884343104947162095
+      bg_war_2_84: 8039264403892331831
+      bg_war_2_85: 7475340310163706525
+      bg_war_2_86: -5955069705798680444
+      bg_war_2_87: -6271523932269607922
+      bg_war_2_88: 820844945500768441
+      bg_war_2_89: -4703716310311944075
+      bg_war_2_9: 7365602991901659950
+      bg_war_2_90: -494721776451007019
+      bg_war_2_91: 2550207295599880079
+      bg_war_2_92: 996053153858353824
+      bg_war_2_93: -4277123310881573024
+      bg_war_2_94: 3430207453438449211
+      bg_war_2_95: -4621585749880323334
+      bg_war_2_96: 4383614255482138326
+      bg_war_2_97: 4143813205087370628
+      bg_war_2_98: -291521739144557715
+      bg_war_2_99: -8440899065974609555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
