@@ -851,7 +851,7 @@ GameObject:
   - component: {fileID: 410278525}
   - component: {fileID: 410278524}
   m_Layer: 0
-  m_Name: Audio Source
+  m_Name: MusicPlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -867,12 +867,12 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: b0dbe0d4f89867d499b151537ba8710c, type: 3}
+  m_Resource: {fileID: 8300000, guid: b0dbe0d4f89867d499b151537ba8710c, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
