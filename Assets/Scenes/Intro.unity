@@ -3712,9 +3712,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1375483092}
+  - {fileID: 1375482985}
   selectedCommands:
-  - {fileID: 1375483164}
+  - {fileID: 1375482993}
   variables: []
   description: 
   stepPause: 0
@@ -3895,7 +3895,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 9
   indentLevel: 0
-  storyText: You tell me.{i}Should{/i} you know me?
+  storyText: You tell me. {i}Should{/i} you know me?
   description: 
   character: {fileID: 772765960}
   portrait: {fileID: 0}
