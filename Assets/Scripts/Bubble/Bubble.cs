@@ -11,7 +11,9 @@ public class Bubble : MonoBehaviour
 
     private void Update()
     {
-        gameObject.transform.position += speed * Time.deltaTime * Vector3.right;
+        if (gameObject.activeSelf) {
+            gameObject.transform.position += speed * Time.deltaTime * Vector3.right;
+        }
     }
 
     public void ResetSpeed() 
