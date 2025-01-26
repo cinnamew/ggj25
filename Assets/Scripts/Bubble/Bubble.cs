@@ -1,5 +1,4 @@
 using Fungus;
-using Fungus.EditorUtils;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
@@ -7,6 +6,7 @@ public class Bubble : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
     private float speed;
     private DialogInput dialogInput;
+    public bool canFunction = true;
 
     private void Start() 
     {
@@ -28,14 +28,11 @@ public class Bubble : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 
     public void OnPointerEnter(PointerEventData eventData)
     {
-        // dialogInput.SetClickAnywhereClickedFlag();
         dialogInput.clickMode = ClickMode.Disabled;
-        // Debug.Log(dialogInput.clickMode);
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
         dialogInput.clickMode = ClickMode.ClickAnywhere;
-        // Debug.Log("we're done here");
     }
 }
