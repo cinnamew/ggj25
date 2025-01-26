@@ -2318,6 +2318,7 @@ GameObject:
   - component: {fileID: 1375483327}
   - component: {fileID: 1375483328}
   - component: {fileID: 1375483329}
+  - component: {fileID: 1375483330}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -2352,7 +2353,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 1375483092}
   selectedCommands:
-  - {fileID: 1375483318}
+  - {fileID: 1375483330}
   variables: []
   description: 
   stepPause: 0
@@ -2441,6 +2442,7 @@ MonoBehaviour:
   - {fileID: 1375483317}
   - {fileID: 1375483316}
   - {fileID: 1375483318}
+  - {fileID: 1375483330}
   suppressAllAutoSelections: 0
 --- !u!114 &1375483136
 MonoBehaviour:
@@ -3592,6 +3594,25 @@ MonoBehaviour:
   move: 0
   shiftIntoPlace: 0
   waitUntilFinished: 0
+--- !u!114 &1375483330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d03ae0919f04264b018681ed534177, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 345
+  indentLevel: 0
+  _sceneName:
+    stringRef: {fileID: 0}
+    stringVal: Two_Girl
+  loadingImage: {fileID: 0}
+  sceneNameOLD: 
 --- !u!1 &1459475415
 GameObject:
   m_ObjectHideFlags: 0
