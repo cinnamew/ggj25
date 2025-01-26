@@ -9,6 +9,14 @@ public class BubbleSpawner : MonoBehaviour
     [SerializeField] private Button bubbleAsset;
     private GameObject[] bubblePool;
 
+    [SerializeField] private GameObject specialBubble;
+    private int popCount = 0;
+    private int popMax = 10;
+
+    [SerializeField] private AudioSource audioPlayer;
+    [SerializeField] private AudioClip pop1;
+    [SerializeField] private AudioClip pop2;
+
     void Start()
     {
         bubblePool = new GameObject[poolAmount];
@@ -36,11 +44,21 @@ public class BubbleSpawner : MonoBehaviour
                 bubble.SetActive(false);
             }
         }
+
+        if (popCount >= popMax) {
+            foreach (GameObject g in bubblePool) {
+                g.GetComponent<Button>().interactable = false;
+            }
+            specialBubble.GetComponent<SpecialBubble>().Activate();
+        }
     }
 
     private void ButtonClicked(int idx) {
         bubblePool[idx].SetActive(false);
+        popCount++;
+
+        audioPlayer.PlayOneShot((int)Time.time % 2 == 0 ? pop1 : pop2);
     }
 
-    Vector2 GetRandomPosition() => new(Random.Range(-200, -800), Random.Range(-canvas.transform.position.y, canvas.transform.position.y));
+    Vector2 GetRandomPosition() => new(Random.Range(-200, -1000), Random.Range(-canvas.transform.position.y, canvas.transform.position.y));
 }
