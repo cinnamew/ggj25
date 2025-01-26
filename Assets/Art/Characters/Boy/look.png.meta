@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fce7cbd2b5dfd1c49ab8089a98e9c695
+guid: aa1dc25e2998e449bb1066cd4f4f0e19
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1181671255441622953
-    second: bg_war_3_0
+      213: -6901613410162773367
+    second: look_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,6 +97,19 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
+    buildTarget: OSXUniversal
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -126,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg_war_3_0
+      name: look_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 69
         y: 0
-        width: 3480
-        height: 2160
+        width: 2379
+        height: 2808
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 758bc12014cd99fe0800000000000000
-      internalID: -1181671255441622953
+      spriteID: 982fc267b2b8830a0800000000000000
+      internalID: -6901613410162773367
       vertices: []
       indices: 
       edges: []
@@ -160,8 +173,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      bg_war_3_0: -1181671255441622953
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
