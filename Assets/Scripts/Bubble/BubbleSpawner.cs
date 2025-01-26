@@ -9,6 +9,10 @@ public class BubbleSpawner : MonoBehaviour
     [SerializeField] private Button bubbleAsset;
     private GameObject[] bubblePool;
 
+    [SerializeField] private GameObject specialBubble;
+    private int popCount = 0;
+    private int popMax = 10;
+
     void Start()
     {
         bubblePool = new GameObject[poolAmount];
@@ -36,11 +40,19 @@ public class BubbleSpawner : MonoBehaviour
                 bubble.SetActive(false);
             }
         }
+
+        if (popCount >= popMax) {
+            foreach (GameObject g in bubblePool) {
+                g.GetComponent<Button>().interactable = false;
+            }
+            specialBubble.GetComponent<SpecialBubble>().Activate();
+        }
     }
 
     private void ButtonClicked(int idx) {
         bubblePool[idx].SetActive(false);
+        popCount++;
     }
 
-    Vector2 GetRandomPosition() => new(Random.Range(-200, -800), Random.Range(-canvas.transform.position.y, canvas.transform.position.y));
+    Vector2 GetRandomPosition() => new(Random.Range(-200, -1000), Random.Range(-canvas.transform.position.y, canvas.transform.position.y));
 }
