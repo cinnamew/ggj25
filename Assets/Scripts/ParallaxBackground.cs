@@ -7,8 +7,8 @@ public class ParallaxBackground : MonoBehaviour
 
     private Vector3[] startPositionsGO;
     private Vector3[] startPositionsUI;
-    private float goMultiplier = 2f;
-    private float uiMultiplier = 500f;
+    [SerializeField] private float goMultiplier = 2f;
+    [SerializeField] private float uiMultiplier = 500f;
     private Vector2 mPos;
 
     void Start()
