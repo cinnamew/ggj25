@@ -223,7 +223,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      happynoexcl_0: 4424704801026574526
+      happynoexcl_1: 6372452799587120980
+      happynoexcl_2: 5423480830990193824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -223,7 +223,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      angrynocute_0: -9074307547045345432
+      angrynocute_1: -5712102703883844069
+      angrynocute_2: 7734182094388358921
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

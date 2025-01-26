@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      derangedsmile_0: -589878754134667392
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

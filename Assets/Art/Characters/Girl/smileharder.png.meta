@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      smileharder_0: 814614685575829949
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
