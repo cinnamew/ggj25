@@ -9,28 +9,32 @@ public class TitleButtons : MonoBehaviour
 
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
-    public void Play() {
+    public void Play()
+    {
         SceneManager.LoadScene(firstScene);
     }
 
-    public void About() {
+    public void About()
+    {
 
     }
 
-    public void Settings() {
+    public void Settings()
+    {
 
     }
 
-    public void Quit() {
+    public void Quit()
+    {
         Application.Quit();
     }
 
