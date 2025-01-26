@@ -21,8 +21,6 @@ public abstract class Singleton<T> : MonoBehaviour where T : Singleton<T> {
 
     public static bool HasInstance => instance != null;
 
-    public int lifeForce = 10;
-
     protected virtual void Awake()
     {
         if (instance == null)
