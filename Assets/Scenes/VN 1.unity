@@ -1921,6 +1921,7 @@ GameObject:
   - component: {fileID: 1375483139}
   - component: {fileID: 1375483138}
   - component: {fileID: 1375483137}
+  - component: {fileID: 1375483152}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -2004,18 +2005,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 200.04317, y: 47.492664}
+  scrollPos: {x: 154.89708, y: 12.4708605}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 299
-  zoom: 0.72949994
+  zoom: 0.79999936
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 1375483081}
   selectedCommands: []
   variables: []
   description: 
@@ -3101,7 +3103,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1375482983}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
@@ -3427,6 +3429,7 @@ MonoBehaviour:
   - {fileID: 1375483054}
   - {fileID: 1375483053}
   - {fileID: 1375483052}
+  - {fileID: 1375483152}
   - {fileID: 1375483051}
   - {fileID: 1375483050}
   - {fileID: 1375483049}
@@ -5353,7 +5356,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 281.6189
-    y: 528.2506
+    y: 529.54175
     width: 132.5
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -5374,6 +5377,24 @@ MonoBehaviour:
   - {fileID: 1375483142}
   - {fileID: 1375483137}
   suppressAllAutoSelections: 0
+--- !u!114 &1375483152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3315ad2ebb85443909a1203d56d9344e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 168
+  indentLevel: 0
+  _duration:
+    floatRef: {fileID: 0}
+    floatVal: 2
+  durationOLD: 0
 --- !u!1 &1459475415
 GameObject:
   m_ObjectHideFlags: 0
