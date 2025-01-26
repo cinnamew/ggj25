@@ -13,6 +13,10 @@ public class BubbleSpawner : MonoBehaviour
     private int popCount = 0;
     private int popMax = 10;
 
+    [SerializeField] private AudioSource audioPlayer;
+    [SerializeField] private AudioClip pop1;
+    [SerializeField] private AudioClip pop2;
+
     void Start()
     {
         bubblePool = new GameObject[poolAmount];
@@ -52,6 +56,9 @@ public class BubbleSpawner : MonoBehaviour
     private void ButtonClicked(int idx) {
         bubblePool[idx].SetActive(false);
         popCount++;
+
+        int oneOrTwo = Random.Range(0, 2);
+        audioPlayer.PlayOneShot(oneOrTwo == 0 ? pop1 : pop2);
     }
 
     Vector2 GetRandomPosition() => new(Random.Range(-200, -1000), Random.Range(-canvas.transform.position.y, canvas.transform.position.y));
