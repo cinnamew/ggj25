@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene 1.unity
     guid: 94e17fdb46d6b44deba6f4911c8f09e3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/WarChapter.unity
     guid: 738545d8ca00d8c4cbf68cf4155d47d0
   - enabled: 1
@@ -29,6 +29,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Two_Girl.unity
     guid: ac08168f5d85e4ad797dc2fc06ba9d47
+  - enabled: 1
+    path: Assets/Scenes/Three_Hospital.unity
+    guid: 4580b68b0281a4561a66950433e385ec
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

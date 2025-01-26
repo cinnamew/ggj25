@@ -3581,6 +3581,8 @@ GameObject:
   - component: {fileID: 1375483294}
   - component: {fileID: 1375483295}
   - component: {fileID: 1375483296}
+  - component: {fileID: 1375483297}
+  - component: {fileID: 1375483298}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -3717,9 +3719,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1375483277}
+  - {fileID: 1375483173}
   selectedCommands:
-  - {fileID: 1375483296}
+  - {fileID: 1375483178}
   variables: []
   description: 
   stepPause: 0
@@ -4060,7 +4062,7 @@ MonoBehaviour:
   indentLevel: 0
   _sceneName:
     stringRef: {fileID: 0}
-    stringVal: Two_Girl
+    stringVal: Three_Hospital
   loadingImage: {fileID: 0}
   sceneNameOLD: 
 --- !u!114 &1375483182
@@ -4183,8 +4185,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 241
   indentLevel: 0
-  storyText: '{i}Your arm hesitates, but you go for one anyways. A deformed, shrinking
-    heart stares back at you.'
+  storyText: "{i}You head to a different part of the field; you don\u2019t want to
+    deal with all that heaviness again.{wc}A wrinkled, weary bubble greets you."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5555,7 +5557,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 28.694977
+    x: 29.694977
     y: 317.6
     width: 90.9
     height: 40
@@ -5636,7 +5638,9 @@ MonoBehaviour:
   - {fileID: 1375483294}
   - {fileID: 1375483296}
   - {fileID: 1375483295}
+  - {fileID: 1375483297}
   - {fileID: 1375483278}
+  - {fileID: 1375483298}
   suppressAllAutoSelections: 0
 --- !u!114 &1375483278
 MonoBehaviour:
@@ -6193,6 +6197,60 @@ MonoBehaviour:
   move: 0
   shiftIntoPlace: 0
   waitUntilFinished: 0
+--- !u!114 &1375483297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 317
+  indentLevel: 0
+  storyText: "{i}She\u2019s not usually like this, but okay."
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1375483298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 318
+  indentLevel: 0
+  storyText: ...Okay.
+  description: 
+  character: {fileID: 974924448}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &1459475415
 GameObject:
   m_ObjectHideFlags: 0
