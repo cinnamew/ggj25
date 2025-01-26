@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bubble_shake_0_0: -5144089881167280012
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

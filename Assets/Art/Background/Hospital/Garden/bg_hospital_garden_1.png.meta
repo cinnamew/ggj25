@@ -1,0 +1,2275 @@
+fileFormatVersion: 2
+guid: 5bd644890132f944ca2159152593e544
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5274515795071189970
+    second: bg_hospital_garden_1_0
+  - first:
+      213: -1899840811992437620
+    second: bg_hospital_garden_1_1
+  - first:
+      213: 8238792617176141263
+    second: bg_hospital_garden_1_2
+  - first:
+      213: 1656912979491116867
+    second: bg_hospital_garden_1_3
+  - first:
+      213: -3347607917465938528
+    second: bg_hospital_garden_1_4
+  - first:
+      213: 3699210989280178635
+    second: bg_hospital_garden_1_5
+  - first:
+      213: 5448195059678887098
+    second: bg_hospital_garden_1_6
+  - first:
+      213: 4708897517575720650
+    second: bg_hospital_garden_1_7
+  - first:
+      213: -7979460521162158994
+    second: bg_hospital_garden_1_8
+  - first:
+      213: 992935697839516336
+    second: bg_hospital_garden_1_9
+  - first:
+      213: -7574831524195893022
+    second: bg_hospital_garden_1_10
+  - first:
+      213: 545200031049806104
+    second: bg_hospital_garden_1_11
+  - first:
+      213: 1549939194533678603
+    second: bg_hospital_garden_1_12
+  - first:
+      213: 1355937679047567235
+    second: bg_hospital_garden_1_13
+  - first:
+      213: 4615893019921853344
+    second: bg_hospital_garden_1_14
+  - first:
+      213: 1158027904905999801
+    second: bg_hospital_garden_1_15
+  - first:
+      213: -3202818567616679521
+    second: bg_hospital_garden_1_16
+  - first:
+      213: -2336344017839084459
+    second: bg_hospital_garden_1_17
+  - first:
+      213: 2328709343790714212
+    second: bg_hospital_garden_1_18
+  - first:
+      213: 8147380979262023634
+    second: bg_hospital_garden_1_19
+  - first:
+      213: 1719595362017904234
+    second: bg_hospital_garden_1_20
+  - first:
+      213: 6280854873138238600
+    second: bg_hospital_garden_1_21
+  - first:
+      213: -6555933393208396177
+    second: bg_hospital_garden_1_22
+  - first:
+      213: -3059789599619650232
+    second: bg_hospital_garden_1_23
+  - first:
+      213: 7358262450615147656
+    second: bg_hospital_garden_1_24
+  - first:
+      213: -1452343969035367173
+    second: bg_hospital_garden_1_25
+  - first:
+      213: -1703278970232121983
+    second: bg_hospital_garden_1_26
+  - first:
+      213: -770293634040080600
+    second: bg_hospital_garden_1_27
+  - first:
+      213: 8032417932861881493
+    second: bg_hospital_garden_1_28
+  - first:
+      213: 4488678541844243916
+    second: bg_hospital_garden_1_29
+  - first:
+      213: -805600014352025716
+    second: bg_hospital_garden_1_30
+  - first:
+      213: -5959315590009535595
+    second: bg_hospital_garden_1_31
+  - first:
+      213: 5810197951897852943
+    second: bg_hospital_garden_1_32
+  - first:
+      213: 1261735768643689621
+    second: bg_hospital_garden_1_33
+  - first:
+      213: 1980442510328477698
+    second: bg_hospital_garden_1_34
+  - first:
+      213: -5448317296402327527
+    second: bg_hospital_garden_1_35
+  - first:
+      213: -3760954350701178667
+    second: bg_hospital_garden_1_36
+  - first:
+      213: 4294937387709940719
+    second: bg_hospital_garden_1_37
+  - first:
+      213: -7794813375347722137
+    second: bg_hospital_garden_1_38
+  - first:
+      213: -1041852819228125996
+    second: bg_hospital_garden_1_39
+  - first:
+      213: 141695121405978095
+    second: bg_hospital_garden_1_40
+  - first:
+      213: 7857821083911969953
+    second: bg_hospital_garden_1_41
+  - first:
+      213: -192309298201215758
+    second: bg_hospital_garden_1_42
+  - first:
+      213: 4675836563045382215
+    second: bg_hospital_garden_1_43
+  - first:
+      213: 2091483365055564145
+    second: bg_hospital_garden_1_44
+  - first:
+      213: 2673601756374277535
+    second: bg_hospital_garden_1_45
+  - first:
+      213: -4609919819499476867
+    second: bg_hospital_garden_1_46
+  - first:
+      213: -3256267824508879534
+    second: bg_hospital_garden_1_47
+  - first:
+      213: 2847629712180582152
+    second: bg_hospital_garden_1_48
+  - first:
+      213: 670893912697655175
+    second: bg_hospital_garden_1_49
+  - first:
+      213: 4071689985480166688
+    second: bg_hospital_garden_1_50
+  - first:
+      213: 6318090103514497309
+    second: bg_hospital_garden_1_51
+  - first:
+      213: 2106092500180021571
+    second: bg_hospital_garden_1_52
+  - first:
+      213: -8156089209771433579
+    second: bg_hospital_garden_1_53
+  - first:
+      213: -5159985198516622843
+    second: bg_hospital_garden_1_54
+  - first:
+      213: -2129378133452388172
+    second: bg_hospital_garden_1_55
+  - first:
+      213: -3548990934080351663
+    second: bg_hospital_garden_1_56
+  - first:
+      213: 3238874809454700701
+    second: bg_hospital_garden_1_57
+  - first:
+      213: 4172469583292536126
+    second: bg_hospital_garden_1_58
+  - first:
+      213: -868581125409834152
+    second: bg_hospital_garden_1_59
+  - first:
+      213: 1174235020805299041
+    second: bg_hospital_garden_1_60
+  - first:
+      213: -685347755295076537
+    second: bg_hospital_garden_1_61
+  - first:
+      213: 2979745736103566861
+    second: bg_hospital_garden_1_62
+  - first:
+      213: -4140157735707488608
+    second: bg_hospital_garden_1_63
+  - first:
+      213: -3371930646793850209
+    second: bg_hospital_garden_1_64
+  - first:
+      213: -7142216309049960043
+    second: bg_hospital_garden_1_65
+  - first:
+      213: -809012282877077050
+    second: bg_hospital_garden_1_66
+  - first:
+      213: 3989200317278574723
+    second: bg_hospital_garden_1_67
+  - first:
+      213: -9048071415107232989
+    second: bg_hospital_garden_1_68
+  - first:
+      213: 7580346445010303364
+    second: bg_hospital_garden_1_69
+  - first:
+      213: -5591748918579111019
+    second: bg_hospital_garden_1_70
+  - first:
+      213: -2332143938582189002
+    second: bg_hospital_garden_1_71
+  - first:
+      213: -7491425918332068755
+    second: bg_hospital_garden_1_72
+  - first:
+      213: 5222320489280991560
+    second: bg_hospital_garden_1_73
+  - first:
+      213: 2985790366251514457
+    second: bg_hospital_garden_1_74
+  - first:
+      213: -5701148999552681123
+    second: bg_hospital_garden_1_75
+  - first:
+      213: 5341949037630651993
+    second: bg_hospital_garden_1_76
+  - first:
+      213: -6415513371435968812
+    second: bg_hospital_garden_1_77
+  - first:
+      213: -7799813380085785341
+    second: bg_hospital_garden_1_78
+  - first:
+      213: -332733536400239750
+    second: bg_hospital_garden_1_79
+  - first:
+      213: -7184551307987892556
+    second: bg_hospital_garden_1_80
+  - first:
+      213: 4327881461004002469
+    second: bg_hospital_garden_1_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_0
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 755
+        width: 1301
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3c7678b28d23940800000000000000
+      internalID: 5274515795071189970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_1
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 1183
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ca667e8d862a5e0800000000000000
+      internalID: -1899840811992437620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_2
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 1217
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd05ecfb32165270800000000000000
+      internalID: 8238792617176141263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_3
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 1106
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3475d4e73998ef610800000000000000
+      internalID: 1656912979491116867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_4
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 1115
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a55820e558ea81d0800000000000000
+      internalID: -3347607917465938528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_5
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 957
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc13445abcc365330800000000000000
+      internalID: 3699210989280178635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_6
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 929
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcb23f7a80eb9b40800000000000000
+      internalID: 5448195059678887098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_7
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 32
+        width: 1366
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acec1dae75d595140800000000000000
+      internalID: 4708897517575720650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_8
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 909
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c40e8dee2434190800000000000000
+      internalID: -7979460521162158994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_9
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 732
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba6782a1cd97cd00800000000000000
+      internalID: 992935697839516336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_10
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 737
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e08fd6acdac0e690800000000000000
+      internalID: -7574831524195893022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_11
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 744
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81171462a80f09700800000000000000
+      internalID: 545200031049806104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_12
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 753
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e82a94c7d728510800000000000000
+      internalID: 1549939194533678603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_13
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 735
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387a231922241d210800000000000000
+      internalID: 1355937679047567235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_14
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 724
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aba5adde32fe0040800000000000000
+      internalID: 4615893019921853344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_15
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 613
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b579e77e34221010800000000000000
+      internalID: 1158027904905999801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_16
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 597
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91be256b7d4d83d0800000000000000
+      internalID: -3202818567616679521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_17
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 527
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ca7978e73a39fd0800000000000000
+      internalID: -2336344017839084459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_18
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 572
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d47c56fcc315020800000000000000
+      internalID: 2328709343790714212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_19
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 451
+        width: 70
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7efae75df411170800000000000000
+      internalID: 8147380979262023634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_20
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 582
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a668c76feda3dd710800000000000000
+      internalID: 1719595362017904234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_21
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 479
+        width: 139
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8849f2fca341a2750800000000000000
+      internalID: 6280854873138238600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_22
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 540
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6631be4055a405a0800000000000000
+      internalID: -6555933393208396177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_23
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 428
+        width: 57
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d6c3312917985d0800000000000000
+      internalID: -3059789599619650232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_24
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 562
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cd20d86bccd1660800000000000000
+      internalID: 7358262450615147656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_25
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 518
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc47f1eadc38dbe0800000000000000
+      internalID: -1452343969035367173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_26
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 521
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185dbe90dccbc58e0800000000000000
+      internalID: -1703278970232121983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_27
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 544
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827db42650e5f45f0800000000000000
+      internalID: -770293634040080600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_28
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 501
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cb5b76d81e87f60800000000000000
+      internalID: 8032417932861881493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_29
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 487
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc56b8d0a5dfa4e30800000000000000
+      internalID: 4488678541844243916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_30
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 512
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c877f712e0fe1d4f0800000000000000
+      internalID: -805600014352025716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_31
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 212
+        width: 161
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593c8017b024c4da0800000000000000
+      internalID: -5959315590009535595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_32
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 497
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cd295e048f1a050800000000000000
+      internalID: 5810197951897852943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_33
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 478
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c59622ff5928110800000000000000
+      internalID: 1261735768643689621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_34
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 465
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208363668f1fb7b10800000000000000
+      internalID: 1980442510328477698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_35
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 282
+        width: 18
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918925c0940b364b0800000000000000
+      internalID: -5448317296402327527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_36
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 477
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d01ff5c1f76ecbc0800000000000000
+      internalID: -3760954350701178667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_37
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 464
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3cefe6cceaa9b30800000000000000
+      internalID: 4294937387709940719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_38
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 333
+        width: 16
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7687fe7a88243d390800000000000000
+      internalID: -7794813375347722137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_39
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 446
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d41ba181689a81f0800000000000000
+      internalID: -1041852819228125996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_40
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 265
+        width: 86
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe52fc156f667f100800000000000000
+      internalID: 141695121405978095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_41
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 280
+        width: 80
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acd52fa4a69c0d60800000000000000
+      internalID: 7857821083911969953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_42
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 456
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc36b156b7c45df0800000000000000
+      internalID: -192309298201215758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_43
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 435
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7487a189498e3e040800000000000000
+      internalID: 4675836563045382215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_44
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 440
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17986c31a01760d10800000000000000
+      internalID: 2091483365055564145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_45
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 440
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d9c8fc1aa8a1520800000000000000
+      internalID: 2673601756374277535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_46
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 7
+        width: 379
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7863bb39564600c0800000000000000
+      internalID: -4609919819499476867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_47
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 406
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d3d928aa96fc2d0800000000000000
+      internalID: -3256267824508879534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_48
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 264
+        width: 98
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8071f56c220d48720800000000000000
+      internalID: 2847629712180582152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_49
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 409
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fc054857e7f4900800000000000000
+      internalID: 670893912697655175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_50
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 405
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d8f04187c818830800000000000000
+      internalID: 4071689985480166688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_51
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 163
+        width: 151
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1184e6797d5ea750800000000000000
+      internalID: 6318090103514497309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_52
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 328
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341385968f75a3d10800000000000000
+      internalID: 2106092500180021571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_53
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 338
+        width: 12
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5916d279310cfce80800000000000000
+      internalID: -8156089209771433579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_54
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 373
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50aa42cfccc0468b0800000000000000
+      internalID: -5159985198516622843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_55
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 397
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8061b9edde272e0800000000000000
+      internalID: -2129378133452388172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_56
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 222
+        width: 36
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1521f0f7c837fbec0800000000000000
+      internalID: -3548990934080351663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_57
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 254
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9822899a7bc2fc20800000000000000
+      internalID: 3238874809454700701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_58
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 307
+        width: 22
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e351644baf697e930800000000000000
+      internalID: 4172469583292536126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_59
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 10
+        width: 336
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b7651811e22f3f0800000000000000
+      internalID: -868581125409834152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_60
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 316
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b5ce1b788bb4010800000000000000
+      internalID: 1174235020805299041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_61
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 203
+        width: 68
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f860209d72d76f0800000000000000
+      internalID: -685347755295076537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_62
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 348
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e1079a5fe2a5920800000000000000
+      internalID: 2979745736103566861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_63
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 15
+        width: 214
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aec11199743b86c0800000000000000
+      internalID: -4140157735707488608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_64
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 274
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92799621fe7431d0800000000000000
+      internalID: -3371930646793850209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_65
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 316
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5995316ab10c1ec90800000000000000
+      internalID: -7142216309049960043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_66
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 142
+        width: 97
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c91f247d9fc5c4f0800000000000000
+      internalID: -809012282877077050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_67
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 259
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388d3498d8c7c5730800000000000000
+      internalID: 3989200317278574723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_68
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 121
+        width: 46
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bda289cface6280800000000000000
+      internalID: -9048071415107232989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_69
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 256
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489fb39edecc23960800000000000000
+      internalID: 7580346445010303364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_70
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 290
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bdae22cfd1662b0800000000000000
+      internalID: -5591748918579111019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_71
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 261
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c6abfa17f82afd0800000000000000
+      internalID: -2332143938582189002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_72
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 161
+        width: 28
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c99ac81db190890800000000000000
+      internalID: -7491425918332068755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_73
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 157
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84176d2e0d8697840800000000000000
+      internalID: 5222320489280991560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_74
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 87
+        width: 41
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a743ac488af6920800000000000000
+      internalID: 2985790366251514457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 51
+        width: 126
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bb61ed03371e0b0800000000000000
+      internalID: -5701148999552681123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_76
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 74
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ef63cc85a622a40800000000000000
+      internalID: 5341949037630651993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_77
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 26
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d65acb549487f6a0800000000000000
+      internalID: -6415513371435968812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_78
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 10
+        width: 155
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dd5a55e0f71c390800000000000000
+      internalID: -7799813380085785341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_79
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 63
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73110e8c94e16bf0800000000000000
+      internalID: -332733536400239750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 57
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b640d896a85b4c90800000000000000
+      internalID: -7184551307987892556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_hospital_garden_1_81
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a464293249bf0c30800000000000000
+      internalID: 4327881461004002469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_hospital_garden_1_0: 5274515795071189970
+      bg_hospital_garden_1_1: -1899840811992437620
+      bg_hospital_garden_1_10: -7574831524195893022
+      bg_hospital_garden_1_11: 545200031049806104
+      bg_hospital_garden_1_12: 1549939194533678603
+      bg_hospital_garden_1_13: 1355937679047567235
+      bg_hospital_garden_1_14: 4615893019921853344
+      bg_hospital_garden_1_15: 1158027904905999801
+      bg_hospital_garden_1_16: -3202818567616679521
+      bg_hospital_garden_1_17: -2336344017839084459
+      bg_hospital_garden_1_18: 2328709343790714212
+      bg_hospital_garden_1_19: 8147380979262023634
+      bg_hospital_garden_1_2: 8238792617176141263
+      bg_hospital_garden_1_20: 1719595362017904234
+      bg_hospital_garden_1_21: 6280854873138238600
+      bg_hospital_garden_1_22: -6555933393208396177
+      bg_hospital_garden_1_23: -3059789599619650232
+      bg_hospital_garden_1_24: 7358262450615147656
+      bg_hospital_garden_1_25: -1452343969035367173
+      bg_hospital_garden_1_26: -1703278970232121983
+      bg_hospital_garden_1_27: -770293634040080600
+      bg_hospital_garden_1_28: 8032417932861881493
+      bg_hospital_garden_1_29: 4488678541844243916
+      bg_hospital_garden_1_3: 1656912979491116867
+      bg_hospital_garden_1_30: -805600014352025716
+      bg_hospital_garden_1_31: -5959315590009535595
+      bg_hospital_garden_1_32: 5810197951897852943
+      bg_hospital_garden_1_33: 1261735768643689621
+      bg_hospital_garden_1_34: 1980442510328477698
+      bg_hospital_garden_1_35: -5448317296402327527
+      bg_hospital_garden_1_36: -3760954350701178667
+      bg_hospital_garden_1_37: 4294937387709940719
+      bg_hospital_garden_1_38: -7794813375347722137
+      bg_hospital_garden_1_39: -1041852819228125996
+      bg_hospital_garden_1_4: -3347607917465938528
+      bg_hospital_garden_1_40: 141695121405978095
+      bg_hospital_garden_1_41: 7857821083911969953
+      bg_hospital_garden_1_42: -192309298201215758
+      bg_hospital_garden_1_43: 4675836563045382215
+      bg_hospital_garden_1_44: 2091483365055564145
+      bg_hospital_garden_1_45: 2673601756374277535
+      bg_hospital_garden_1_46: -4609919819499476867
+      bg_hospital_garden_1_47: -3256267824508879534
+      bg_hospital_garden_1_48: 2847629712180582152
+      bg_hospital_garden_1_49: 670893912697655175
+      bg_hospital_garden_1_5: 3699210989280178635
+      bg_hospital_garden_1_50: 4071689985480166688
+      bg_hospital_garden_1_51: 6318090103514497309
+      bg_hospital_garden_1_52: 2106092500180021571
+      bg_hospital_garden_1_53: -8156089209771433579
+      bg_hospital_garden_1_54: -5159985198516622843
+      bg_hospital_garden_1_55: -2129378133452388172
+      bg_hospital_garden_1_56: -3548990934080351663
+      bg_hospital_garden_1_57: 3238874809454700701
+      bg_hospital_garden_1_58: 4172469583292536126
+      bg_hospital_garden_1_59: -868581125409834152
+      bg_hospital_garden_1_6: 5448195059678887098
+      bg_hospital_garden_1_60: 1174235020805299041
+      bg_hospital_garden_1_61: -685347755295076537
+      bg_hospital_garden_1_62: 2979745736103566861
+      bg_hospital_garden_1_63: -4140157735707488608
+      bg_hospital_garden_1_64: -3371930646793850209
+      bg_hospital_garden_1_65: -7142216309049960043
+      bg_hospital_garden_1_66: -809012282877077050
+      bg_hospital_garden_1_67: 3989200317278574723
+      bg_hospital_garden_1_68: -9048071415107232989
+      bg_hospital_garden_1_69: 7580346445010303364
+      bg_hospital_garden_1_7: 4708897517575720650
+      bg_hospital_garden_1_70: -5591748918579111019
+      bg_hospital_garden_1_71: -2332143938582189002
+      bg_hospital_garden_1_72: -7491425918332068755
+      bg_hospital_garden_1_73: 5222320489280991560
+      bg_hospital_garden_1_74: 2985790366251514457
+      bg_hospital_garden_1_75: -5701148999552681123
+      bg_hospital_garden_1_76: 5341949037630651993
+      bg_hospital_garden_1_77: -6415513371435968812
+      bg_hospital_garden_1_78: -7799813380085785341
+      bg_hospital_garden_1_79: -332733536400239750
+      bg_hospital_garden_1_8: -7979460521162158994
+      bg_hospital_garden_1_80: -7184551307987892556
+      bg_hospital_garden_1_81: 4327881461004002469
+      bg_hospital_garden_1_9: 992935697839516336
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
