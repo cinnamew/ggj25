@@ -24,7 +24,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Scene 1-2.unity
     guid: 4a6313419c0db4fc4828b1dcc24e424f
   - enabled: 1
-    path: Assets/Scenes/Scene 1-2  (Clown).unity
+    path: Assets/Scenes/Scene 1-2 (Clown).unity
     guid: 5d56159eb23dc4c3e94c266033e545af
   - enabled: 1
     path: Assets/Scenes/Two_Girl.unity
