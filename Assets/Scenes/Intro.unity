@@ -5225,6 +5225,7 @@ MonoBehaviour:
   waitForVO: 0
   setSayDialog: {fileID: 0}
 --- !u!114 &1375483152
+--- !u!114 &1375483152
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5292,6 +5293,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  itemId: 169
   itemId: 169
   indentLevel: 0
   display: 1
