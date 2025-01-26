@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/Main Menu.unity
+    guid: cb7bc5e49e1fb4cdabd416b0ed95a6b2
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 3cd2f65bbaa724f0cb8022d6dd738ba9
+  - enabled: 1
+    path: Assets/Scenes/Scene 1.unity
+    guid: 94e17fdb46d6b44deba6f4911c8f09e3
+  - enabled: 1
+    path: Assets/Scenes/WarChapter.unity
+    guid: 738545d8ca00d8c4cbf68cf4155d47d0
+  - enabled: 1
+    path: Assets/Scenes/HospitalGarden.unity
+    guid: f8ca370ac69dfbf4db2552fc0387a090
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
