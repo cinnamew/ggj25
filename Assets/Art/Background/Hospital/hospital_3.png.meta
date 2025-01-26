@@ -127,7 +127,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -826,7 +826,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -835,7 +835,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hospital_3_0: -6493122611446753996
+      hospital_3_1: 5234292933152227702
+      hospital_3_10: 2096199478800672907
+      hospital_3_11: 8907496269613681018
+      hospital_3_12: 5905808819392277795
+      hospital_3_13: 5188919300428353353
+      hospital_3_14: 3081103436579194083
+      hospital_3_15: -7553800343339538541
+      hospital_3_16: -2314504506015814722
+      hospital_3_17: -5664072291017063362
+      hospital_3_18: -3438734782369906447
+      hospital_3_19: -1754448365812324574
+      hospital_3_2: 4087691696125122815
+      hospital_3_20: 3293253517531228012
+      hospital_3_21: -8699454005567904786
+      hospital_3_22: 5253217813404701252
+      hospital_3_23: 835766846057012998
+      hospital_3_24: -3430785908923457763
+      hospital_3_25: -5144046788484474824
+      hospital_3_26: 7614055863711305958
+      hospital_3_27: -7206763661898266163
+      hospital_3_3: -6148476461049812598
+      hospital_3_4: 3885865065332827974
+      hospital_3_5: -6493308480638082347
+      hospital_3_6: -3926867606058270213
+      hospital_3_7: 7506329025656531043
+      hospital_3_8: 8582118760498946142
+      hospital_3_9: 1850158072359989447
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
