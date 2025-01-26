@@ -919,8 +919,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -1000}
-  m_SizeDelta: {x: 1000, y: 1000}
+  m_AnchoredPosition: {x: 0, y: -1201}
+  m_SizeDelta: {x: 1158.6953, y: 1158.6953}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &273309493
 CanvasRenderer:
@@ -1590,8 +1590,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -1300, y: -1000}
-  m_SizeDelta: {x: 1000, y: 1000}
+  m_AnchoredPosition: {x: -1506.3041, y: -1201}
+  m_SizeDelta: {x: 1158.6953, y: 1158.6953}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &468098434
 MonoBehaviour:
@@ -2175,8 +2175,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -460.43, y: -1000}
-  m_SizeDelta: {x: 1000, y: 1000}
+  m_AnchoredPosition: {x: -533.4981, y: -1201}
+  m_SizeDelta: {x: 1158.6953, y: 1158.6953}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &851904070
 MonoBehaviour:
@@ -2707,8 +2707,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 460.43, y: -1000}
-  m_SizeDelta: {x: 1000, y: 1000}
+  m_AnchoredPosition: {x: 533.4982, y: -1201}
+  m_SizeDelta: {x: 1158.6953, y: 1158.6953}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1308649993
 MonoBehaviour:
@@ -6738,8 +6738,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 1300, y: -1000}
-  m_SizeDelta: {x: 1000, y: 1000}
+  m_AnchoredPosition: {x: 1506.304, y: -1201}
+  m_SizeDelta: {x: 1158.6953, y: 1158.6953}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1603253276
 MonoBehaviour:
@@ -7038,8 +7038,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Life Force: '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 44743a98ba1404473bfdab5b57246925, type: 2}
+  m_sharedMaterial: {fileID: 2819827327327943051, guid: 44743a98ba1404473bfdab5b57246925, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
