@@ -7,6 +7,10 @@ public class SpecialBubble : MonoBehaviour
     [SerializeField] private float speed;
     private bool canMove = false;
 
+    [SerializeField] private AudioSource audioPlayer;
+    [SerializeField] private AudioClip pop1;
+    [SerializeField] private AudioClip pop2;
+
     private void Update() 
     {
         if (canMove && transform.localPosition.x < moveTo) {
@@ -22,6 +26,7 @@ public class SpecialBubble : MonoBehaviour
 
     public void BubblePopped() 
     {
+        audioPlayer.PlayOneShot((int)Time.time % 2 == 0 ? pop1 : pop2);
         Debug.Log("Cmon... do something *poke with stick*");
     }
 }

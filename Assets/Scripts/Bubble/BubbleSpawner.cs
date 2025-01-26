@@ -57,8 +57,7 @@ public class BubbleSpawner : MonoBehaviour
         bubblePool[idx].SetActive(false);
         popCount++;
 
-        int oneOrTwo = Random.Range(0, 2);
-        audioPlayer.PlayOneShot(oneOrTwo == 0 ? pop1 : pop2);
+        audioPlayer.PlayOneShot((int)Time.time % 2 == 0 ? pop1 : pop2);
     }
 
     Vector2 GetRandomPosition() => new(Random.Range(-200, -1000), Random.Range(-canvas.transform.position.y, canvas.transform.position.y));
