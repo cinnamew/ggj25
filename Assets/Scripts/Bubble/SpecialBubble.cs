@@ -1,8 +1,11 @@
 using UnityEngine;
 using UnityEngine.UI;
+using Fungus;
 
 public class SpecialBubble : MonoBehaviour
 {
+    [SerializeField] private Flowchart flowchart;
+
     [SerializeField] private float moveTo;
     [SerializeField] private float speed;
     private bool canMove = false;
@@ -27,6 +30,6 @@ public class SpecialBubble : MonoBehaviour
     public void BubblePopped() 
     {
         audioPlayer.PlayOneShot((int)Time.time % 2 == 0 ? pop1 : pop2);
-        Debug.Log("Cmon... do something *poke with stick*");
+        flowchart.ExecuteBlock("New Block");
     }
 }

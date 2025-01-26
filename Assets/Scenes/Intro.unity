@@ -603,6 +603,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8300000, guid: 759e8babc67beeb4285a2da075ee574b, type: 3}
     - target: {fileID: 2907822793513291674, guid: 9f687b5567a232243ba65751cd17b5ea, type: 3}
+      propertyPath: flowchart
+      value: 
+      objectReference: {fileID: 1375482986}
+    - target: {fileID: 2907822793513291674, guid: 9f687b5567a232243ba65751cd17b5ea, type: 3}
       propertyPath: audioPlayer
       value: 
       objectReference: {fileID: 407623701}
@@ -3006,7 +3010,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 282.7658, y: 56.867126}
+  scrollPos: {x: 342.30502, y: 33.399994}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 299
@@ -3018,9 +3022,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1375483092}
-  selectedCommands:
-  - {fileID: 1375483164}
+  - {fileID: 1375482985}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
