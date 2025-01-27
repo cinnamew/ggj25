@@ -10,7 +10,6 @@ public class BubbleSpawner : MonoBehaviour
     private GameObject[] bubblePool;
     private bool canMove = false;
 
-    [SerializeField] private GameObject specialBubble;
     private int popCount = 0;
     private int popMax = 10;
 
@@ -18,8 +17,17 @@ public class BubbleSpawner : MonoBehaviour
     [SerializeField] private AudioClip pop1;
     [SerializeField] private AudioClip pop2;
 
+    [Header("Advanced")] 
+    [Tooltip("Cosmetic toggle for bubbles")]
+    [SerializeField] private bool forVisualOnly = true;
+
     private void Start()
     {
+        if (forVisualOnly) 
+        {
+            canMove = true;
+        }
+
         bubblePool = new GameObject[poolAmount];
         for (int i = 0; i < bubblePool.Length; i++) {
             int currIndex = i;
@@ -35,32 +43,44 @@ public class BubbleSpawner : MonoBehaviour
 
     private void Update()
     {
-        if (canMove) {
-            for (int i = 0; i < bubblePool.Length; i++) {
+        if (canMove) 
+        {
+            for (int i = 0; i < bubblePool.Length; i++) 
+            {
                 GameObject bubble = bubblePool[i];
-                if (!bubble.activeSelf) {
+                if (!bubble.activeSelf) 
+                {
                     bubble.transform.position = new Vector3(bubbleContainer.transform.position.x + GetRandomPosition().x, bubbleContainer.transform.position.y + GetRandomPosition().y, bubbleContainer.transform.position.z);
                     bubble.GetComponent<Bubble>().ResetSpeed();
                     bubble.SetActive(true);
                 }
-                else if (bubble.transform.position.x >= canvas.transform.position.x * 2.2) {
+                else if (bubble.transform.position.x >= canvas.transform.position.x * 2.2) 
+                {
                     bubble.SetActive(false);
                 }
             }
         }
         
-        if (popCount >= popMax) {
-            foreach (GameObject g in bubblePool) {
-                g.GetComponent<Button>().interactable = false;
+        if (!forVisualOnly) 
+        {
+            if (popCount >= popMax) 
+            {
+                foreach (GameObject g in bubblePool) {
+                    g.GetComponent<Button>().interactable = false;
+                }
             }
         }
     }
 
-    private void ButtonClicked(int idx) {
+    private void ButtonClicked(int idx) 
+    {
         bubblePool[idx].SetActive(false);
-        GameManager.Instance.lifeForce++;
-        FindAnyObjectByType<LifeForce>().UpdateLifeForce();
-        popCount++;
+        if (!forVisualOnly) 
+        {
+            GameManager.Instance.lifeForce++;
+            FindAnyObjectByType<LifeForce>().UpdateLifeForce();
+            popCount++;
+        }
 
         audioPlayer.PlayOneShot((int)Time.time % 2 == 0 ? pop1 : pop2);
     }

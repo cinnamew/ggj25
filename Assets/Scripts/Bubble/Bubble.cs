@@ -28,11 +28,13 @@ public class Bubble : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 
     public void OnPointerEnter(PointerEventData eventData)
     {
-        dialogInput.clickMode = ClickMode.Disabled;
+        if (dialogInput != null)
+            dialogInput.clickMode = ClickMode.Disabled;
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
-        dialogInput.clickMode = ClickMode.ClickAnywhere;
+        if (dialogInput != null)
+            dialogInput.clickMode = ClickMode.ClickAnywhere;
     }
 }
