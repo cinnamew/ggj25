@@ -12,8 +12,7 @@ public class SpecialBubble : MonoBehaviour
     private bool canMove = false;
 
     [SerializeField] private AudioSource audioPlayer;
-    [SerializeField] private AudioClip pop1;
-    [SerializeField] private AudioClip pop2;
+    [SerializeField] private AudioClip[] popSamples;
 
     private void Update()
     {
@@ -32,7 +31,13 @@ public class SpecialBubble : MonoBehaviour
 
     public void BubblePopped()
     {
-        audioPlayer.PlayOneShot((int)Time.time % 2 == 0 ? pop1 : pop2);
+        if (popSamples.Length > 0) {
+            audioPlayer.PlayOneShot(popSamples[Random.Range(0, popSamples.Length)]); 
+        }
+        else {
+            Debug.LogWarning("No sfx samples for bubble pop");
+        }
+        
         flowchart.ExecuteBlock(blockName);
     }
 }
