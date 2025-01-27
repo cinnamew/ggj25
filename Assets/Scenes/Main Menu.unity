@@ -1445,8 +1445,7 @@ MonoBehaviour:
     bubble)
 
 
-    tws: death, suicide, child sexual assault, chronic illness, violent
-    language (cursing)'
+    tws: death, suicide, csa, chronic illness, violent language (cursing)'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 44743a98ba1404473bfdab5b57246925, type: 2}
   m_sharedMaterial: {fileID: 2819827327327943051, guid: 44743a98ba1404473bfdab5b57246925, type: 2}
@@ -1765,7 +1764,7 @@ MonoBehaviour:
   - {fileID: 1663006655}
   - {fileID: 244715821}
   goMultiplier: 1.5
-  uiMultiplier: 100
+  uiMultiplier: 90
 --- !u!1 &718383942
 GameObject:
   m_ObjectHideFlags: 0
@@ -5167,8 +5166,8 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 244715821}
-  - {fileID: 1663006655}
   - {fileID: 852976628}
+  - {fileID: 1663006655}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
