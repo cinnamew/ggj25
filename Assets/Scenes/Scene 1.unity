@@ -2346,6 +2346,7 @@ GameObject:
   - component: {fileID: 1375483314}
   - component: {fileID: 1375483313}
   - component: {fileID: 1375483323}
+  - component: {fileID: 1375483324}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -2378,8 +2379,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1375483151}
-  selectedCommands: []
+  - {fileID: 1375483322}
+  selectedCommands:
+  - {fileID: 1375483320}
   variables: []
   description: 
   stepPause: 0
@@ -2845,7 +2847,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 75.00464
+    x: 74.00464
     y: -22.357132
     width: 132.5
     height: 40
@@ -7436,9 +7438,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 330
   indentLevel: 0
-  storyText: AWOO!!
+  storyText: '{i}You approach him silently. When you reach within arms distance,
+    you break into a howl.'
   description: 
-  character: {fileID: 974924448}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7500,6 +7503,7 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1375483320}
+  - {fileID: 1375483324}
   - {fileID: 1375483319}
   - {fileID: 1375483318}
   - {fileID: 1375483317}
@@ -7533,6 +7537,33 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
+--- !u!114 &1375483324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 339
+  indentLevel: 0
+  storyText: AWOO!!
+  description: 
+  character: {fileID: 974924448}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &1443441896
 GameObject:
   m_ObjectHideFlags: 0
