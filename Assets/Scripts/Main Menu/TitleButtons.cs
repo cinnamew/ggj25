@@ -21,6 +21,12 @@ public class TitleButtons : MonoBehaviour
     public void Play()
     {
         SceneManager.LoadScene(firstScene);
+        PlayerPrefs.SetInt("life force", 10);
+    }
+
+    public void Continue()
+    {
+        SceneManager.LoadScene(PlayerPrefs.GetString("scene", firstScene));
     }
 
     public void About()

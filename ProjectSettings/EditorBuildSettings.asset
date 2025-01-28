@@ -27,6 +27,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Scene 2-3.unity
     guid: 5e81e9ccad15a41da98642ae5d9e300b
   - enabled: 1
+    path: Assets/Scenes/Scene 2-3 (Clown).unity
+    guid: de2b957bdf12c410d97e9864f625ebf6
+  - enabled: 1
     path: Assets/Scenes/Three_Hospital.unity
     guid: 4580b68b0281a4561a66950433e385ec
   - enabled: 1

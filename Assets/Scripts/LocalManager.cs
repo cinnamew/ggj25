@@ -1,5 +1,6 @@
 using UnityEngine;
 using Fungus;
+using UnityEngine.SceneManagement;
 
 public class LocalManager : MonoBehaviour
 {
@@ -7,7 +8,7 @@ public class LocalManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        PlayerPrefs.SetString("scene", SceneManager.GetActiveScene().name);
     }
 
     // Update is called once per frame

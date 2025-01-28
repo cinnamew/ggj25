@@ -3169,9 +3169,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1375483413}
+  - {fileID: 1375483246}
   selectedCommands:
-  - {fileID: 1375483430}
+  - {fileID: 1375483257}
   variables: []
   description: 
   stepPause: 0
@@ -4675,7 +4675,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -25.928017
+    x: -26.986778
     y: 179.93884
     width: 70.49
     height: 40
@@ -4944,7 +4944,7 @@ MonoBehaviour:
   indentLevel: 0
   _sceneName:
     stringRef: {fileID: 0}
-    stringVal: 23 Clown
+    stringVal: Scene 2-3 (Clown)
   loadingImage: {fileID: 0}
   sceneNameOLD: 
 --- !u!114 &1375483258
