@@ -146,8 +146,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e33e7db76527d74aa4243bc4b6547d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  flowchart: {fileID: 0}
+  blockName: 
   moveTo: 0
   speed: 100
+  audioPlayer: {fileID: 0}
+  popSamples:
+  - {fileID: 8300000, guid: 13293618c474b964195f8a53d9828f3c, type: 3}
+  - {fileID: 8300000, guid: 759e8babc67beeb4285a2da075ee574b, type: 3}
 --- !u!95 &1324847311861034286
 Animator:
   serializedVersion: 7

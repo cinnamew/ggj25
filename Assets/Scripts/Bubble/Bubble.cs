@@ -6,7 +6,7 @@ public class Bubble : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
     private float speed;
     private DialogInput dialogInput;
-    public bool canFunction = true;
+    [SerializeField] private AudioClip[] popSamples;
 
     private void Start() 
     {
@@ -21,9 +21,19 @@ public class Bubble : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
         }
     }
 
-    public void ResetSpeed() 
+    public void SetSpeed(float speedVal) 
     {
-        speed = Random.Range(100, 200);
+        speed = speedVal;
+    }
+
+    public void SetSize(float sizeVal) 
+    {
+        gameObject.transform.localScale = new(sizeVal, sizeVal, sizeVal);
+    }
+
+    public void Pop(AudioSource audioSource) 
+    {
+        audioSource.PlayOneShot(popSamples[Random.Range(0, popSamples.Length)]);
     }
 
     public void OnPointerEnter(PointerEventData eventData)
