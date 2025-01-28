@@ -1,17 +1,26 @@
 using UnityEngine;
 
-//uncoded
-public class Stay : MonoBehaviour
+// Attach to a canvas to make it persist across scenes
+public class Stay : Singleton<Stay>
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [SerializeField] private GameObject settingsPanel;
+    [SerializeField] private GameObject lifeForceText;
+
+    protected override void Awake() 
     {
-        
+        base.Awake();
+        DontDestroyOnLoad(this);
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update() 
     {
-        
+        if (Input.GetKeyDown(KeyCode.Space)) 
+        {
+            SettingsDisplayToggle();
+        }
     }
+
+    public void SettingsDisplayToggle() => settingsPanel.SetActive(!settingsPanel.activeSelf);
+
+    public void LifeForceDisplayToggle() => lifeForceText.SetActive(!lifeForceText.activeSelf);
 }
