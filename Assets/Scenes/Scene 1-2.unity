@@ -2665,7 +2665,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: 440a18647764f2145abdfd82886e2e5f, type: 3}
   m_Resource: {fileID: 8300000, guid: 440a18647764f2145abdfd82886e2e5f, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.7
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -3358,7 +3358,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 1375482985}
   selectedCommands:
-  - {fileID: 1375483221}
+  - {fileID: 1375483189}
   variables: []
   description: 
   stepPause: 0
@@ -4055,11 +4055,11 @@ MonoBehaviour:
     and paintbrushes and made him some good oil paint and everything. And I mean
     by hand. Amazom doesn\u2019t deliver here.{wc}We actually need to get an address,
     it\u2019d make things so much easier. I\u2019ve talked to the higher-ups about
-    it, but they just hate the idea for some reason... I don\u2019t get it, but whatever.
-    Something about \u201Ccan\u2019t let the public find out about Top Secret Afterlife
-    Places,\u201D as if we\u2019re even mentioned in the top 100 places to visit
-    after death. Who would want to visit {i}here{/i}, you know? It\u2019s such a
-    boring place. It gets lonely."
+    it, but they just hate the idea for some reason...{wc}I don\u2019t get it, but
+    whatever. Something about \u201Ccan\u2019t let the public find out about Top
+    Secret Afterlife Places,\u201D as if we\u2019re even mentioned in the top 100
+    places to visit after death. Who would want to visit {i}here{/i}, you know? It\u2019s
+    such a boring place. It gets lonely."
   description: 
   character: {fileID: 1121888702}
   portrait: {fileID: 0}
