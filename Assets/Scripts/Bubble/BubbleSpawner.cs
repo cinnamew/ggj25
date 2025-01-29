@@ -81,8 +81,7 @@ public class BubbleSpawner : MonoBehaviour
         bubblePool[idx].SetActive(false);
         if (!forVisualOnly) 
         {
-            GameManager.Instance.lifeForce++;
-            FindAnyObjectByType<LifeForce>().UpdateLifeForce();
+            LifeForceManager.Instance.IncrementLifeForceAmount();
             popCount++;
         }
 

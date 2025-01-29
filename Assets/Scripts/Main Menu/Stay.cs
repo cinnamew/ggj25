@@ -1,10 +1,11 @@
+using TMPro;
 using UnityEngine;
 
 // Attach to a canvas to make it persist across scenes
 public class Stay : Singleton<Stay>
 {
     [SerializeField] private GameObject settingsPanel;
-    [SerializeField] private GameObject lifeForceText;
+    [SerializeField] private TextMeshProUGUI lifeForceText;
 
     protected override void Awake() 
     {
@@ -14,13 +15,14 @@ public class Stay : Singleton<Stay>
 
     private void Update() 
     {
-        if (Input.GetKeyDown(KeyCode.Space)) 
-        {
-            SettingsDisplayToggle();
-        }
+        // DEBUG PURPOSES ONLY
+        // if (Input.GetKeyDown(KeyCode.Space)) 
+        // {
+        //     LifeForceDisplayToggle();
+        // }
     }
 
     public void SettingsDisplayToggle() => settingsPanel.SetActive(!settingsPanel.activeSelf);
 
-    public void LifeForceDisplayToggle() => lifeForceText.SetActive(!lifeForceText.activeSelf);
+    public void LifeForceDisplayToggle() => lifeForceText.enabled = !lifeForceText.enabled;
 }
