@@ -9,6 +9,7 @@ public class LocalManager : MonoBehaviour
     void Start()
     {
         PlayerPrefs.SetString("scene", SceneManager.GetActiveScene().name);
+        Stay.Instance.SetLifeForceDisplay(true);
     }
 
     // Update is called once per frame
