@@ -13,16 +13,9 @@ public class Stay : Singleton<Stay>
         DontDestroyOnLoad(this);
     }
 
-    private void Update() 
-    {
-        // DEBUG PURPOSES ONLY
-        // if (Input.GetKeyDown(KeyCode.Space)) 
-        // {
-        //     LifeForceDisplayToggle();
-        // }
-    }
-
+    // Toggles the Settings display on and off
     public void SettingsDisplayToggle() => settingsPanel.SetActive(!settingsPanel.activeSelf);
 
-    public void LifeForceDisplayToggle() => lifeForceText.enabled = !lifeForceText.enabled;
+    // Set the visibility of the Life Force display
+    public void SetLifeForceDisplay(bool enabledBool) => lifeForceText.enabled = enabledBool;
 }
