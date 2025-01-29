@@ -2374,13 +2374,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe1942101bec8934ebbdca4edd8e8384, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canvas: {fileID: 99320619}
-  poolAmount: 30
+  audioPlayer: {fileID: 407623701}
   bubbleContainer: {fileID: 969211282}
   bubbleAsset: {fileID: 8263438358969681825, guid: 9fb78c6693680874b84dde25d0b3029b, type: 3}
-  audioPlayer: {fileID: 407623701}
-  pop1: {fileID: 8300000, guid: 13293618c474b964195f8a53d9828f3c, type: 3}
-  pop2: {fileID: 8300000, guid: 759e8babc67beeb4285a2da075ee574b, type: 3}
+  poolAmount: 30
+  sizeMin: 0.1
+  sizeMax: 0.2
+  speedValueMin: 100
+  speedValueMax: 200
   forVisualOnly: 1
 --- !u!4 &672000597
 Transform:
@@ -3739,7 +3740,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 1375482985}
   selectedCommands: []
   variables: []
   description: 
