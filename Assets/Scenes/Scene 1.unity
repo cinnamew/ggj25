@@ -2430,7 +2430,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 1375483239}
   selectedCommands:
-  - {fileID: 1375483328}
+  - {fileID: 1375483248}
   variables: []
   description: 
   stepPause: 0
@@ -5563,13 +5563,12 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "It\u2019s too much effort to live.{wc}Look, when I say I planned it,
     I mean it\u2019s planned and executed. It\u2019s done. {wc}I cheated on my boyfriend\u2014
-    ex. So he blocked me everywhere. It\u2019ll be a while until he finds out...
-    I just don\u2019t want him to hurt. I paid some rando $500 to kiss me, and some
-    other rando $10 to take a picture of that. I threw up afterwards. Felt like shit.{wi}
-    ...But it worked.{wc}And I lied to my family, told them I got into fucking {i}MIT{/i}
-    of all places. They believed me, somehow.{wc}It won\u2019t be long until they
-    find out. But if I die now, their boasts of an MIT child can still live. Poor,
-    poor tragedy.\n"
+    ex. I paid some rando $50 to kiss me, and asked someone to take a picture of
+    that. I threw up afterwards. Felt like shit.{wi} ...But it worked. He blocked
+    me everywhere, so it\u2019ll be a while until he finds out...{wc}And I lied to
+    my family, told them I got into fucking {i}MIT{/i} of all places. They believed
+    me, somehow.{wc}It won\u2019t be long until they find out. But if I die now,
+    their boasts of an MIT child can still live. Poor, poor tragedy."
   description: 
   character: {fileID: 641985020}
   portrait: {fileID: 0}
