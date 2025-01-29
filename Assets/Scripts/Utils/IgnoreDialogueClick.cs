@@ -22,25 +22,34 @@ public class IgnoreDialogueClick : MonoBehaviour, IPointerEnterHandler, IPointer
     {
         if (!disabled)
         {
-            DialogueManager.Instance.ChangeDialogInputClickMode(ClickMode.Disabled);
+            ChangeDialogInputClickMode(ClickMode.Disabled);
             disabled = true;
         }
         else
         {
             disabled = false;
-            DialogueManager.Instance.ChangeDialogInputClickMode(ClickMode.ClickAnywhere);
+            ChangeDialogInputClickMode(ClickMode.ClickAnywhere);
         }
         //print(disabled);
     }
 
     public void EnableClick()
     {
-        DialogueManager.Instance.ChangeDialogInputClickMode(ClickMode.ClickAnywhere);
+        ChangeDialogInputClickMode(ClickMode.ClickAnywhere);
     }
 
     //Detect when Cursor leaves the GameObject
     public void OnPointerExit(PointerEventData pointerEventData)
     {
-        if (!disabled && DialogueManager.Instance != null) DialogueManager.Instance.ChangeDialogInputClickMode(ClickMode.ClickAnywhere);
+        if (!disabled) ChangeDialogInputClickMode(ClickMode.ClickAnywhere);
+    }
+
+    public void ChangeDialogInputClickMode(ClickMode clickMode)
+    {
+        DialogInput[] dialogInputs = FindObjectsByType(typeof(DialogInput), FindObjectsSortMode.None) as DialogInput[];
+        foreach (DialogInput dialogInput in dialogInputs)
+        {
+            dialogInput.clickMode = clickMode;
+        }
     }
 }
