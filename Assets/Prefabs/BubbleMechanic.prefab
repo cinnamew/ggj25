@@ -450,6 +450,26 @@ PrefabInstance:
       propertyPath: audioPlayer
       value: 
       objectReference: {fileID: 5877378002284776577}
+    - target: {fileID: 2907822793513291674, guid: 9f687b5567a232243ba65751cd17b5ea, type: 3}
+      propertyPath: popSamples.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2907822793513291674, guid: 9f687b5567a232243ba65751cd17b5ea, type: 3}
+      propertyPath: 'popSamples.Array.data[0]'
+      value: 
+      objectReference: {fileID: 8300000, guid: 265283bb777fdcc4caf91e34e2478bc9, type: 3}
+    - target: {fileID: 2907822793513291674, guid: 9f687b5567a232243ba65751cd17b5ea, type: 3}
+      propertyPath: 'popSamples.Array.data[1]'
+      value: 
+      objectReference: {fileID: 8300000, guid: 4555e0a9c94de08419dcc0382e5afefb, type: 3}
+    - target: {fileID: 2907822793513291674, guid: 9f687b5567a232243ba65751cd17b5ea, type: 3}
+      propertyPath: 'popSamples.Array.data[2]'
+      value: 
+      objectReference: {fileID: 8300000, guid: 265283bb777fdcc4caf91e34e2478bc9, type: 3}
+    - target: {fileID: 2907822793513291674, guid: 9f687b5567a232243ba65751cd17b5ea, type: 3}
+      propertyPath: 'popSamples.Array.data[3]'
+      value: 
+      objectReference: {fileID: 8300000, guid: 4555e0a9c94de08419dcc0382e5afefb, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
