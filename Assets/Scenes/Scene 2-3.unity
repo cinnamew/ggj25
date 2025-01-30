@@ -3252,6 +3252,8 @@ GameObject:
   - component: {fileID: 1375483309}
   - component: {fileID: 1375483310}
   - component: {fileID: 1375483311}
+  - component: {fileID: 1375483312}
+  - component: {fileID: 1375483313}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -3289,7 +3291,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 66
-    y: 70
+    y: 71.05597
     width: 110.19
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -3362,6 +3364,7 @@ MonoBehaviour:
   - {fileID: 1375483273}
   - {fileID: 1375483272}
   - {fileID: 1375483274}
+  - {fileID: 1375483313}
   suppressAllAutoSelections: 0
 --- !u!114 &1375482986
 MonoBehaviour:
@@ -3376,11 +3379,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 130.30502, y: 4.399994}
+  scrollPos: {x: 159.29565, y: 27.29027}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 299
-  zoom: 1
+  zoom: 0.9469998
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -3388,9 +3391,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1375482985}
+  - {fileID: 1375483277}
   selectedCommands:
-  - {fileID: 1375483271}
+  - {fileID: 1375483278}
   variables: []
   description: 
   stepPause: 0
@@ -5238,6 +5241,7 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1375483310}
+  - {fileID: 1375483312}
   - {fileID: 1375483309}
   suppressAllAutoSelections: 0
 --- !u!114 &1375483276
@@ -5290,7 +5294,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 289.69498
+    x: 287.639
     y: 307.6
     width: 71.47
     height: 40
@@ -5344,7 +5348,7 @@ MonoBehaviour:
   staticEvent:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1521728749}
         m_TargetAssemblyTypeName: SpecialBubble, Assembly-CSharp
         m_MethodName: Activate
         m_Mode: 1
@@ -6284,6 +6288,92 @@ MonoBehaviour:
   move: 0
   shiftIntoPlace: 0
   waitUntilFinished: 0
+--- !u!114 &1375483312
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 332
+  indentLevel: 0
+  display: 2
+  stage: {fileID: 0}
+  character: {fileID: 1121888702}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1375483313
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d9ff288f3904c05ada7ac9c9a075bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 333
+  indentLevel: 0
+  description: 
+  delay: 0
+  invokeType: 0
+  staticEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1844822352}
+        m_TargetAssemblyTypeName: LocalManager, Assembly-CSharp
+        m_MethodName: GetGirl
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  booleanParameter:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  booleanEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  integerParameter:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  integerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  floatParameter:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  floatEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  stringParameter:
+    stringRef: {fileID: 0}
+    stringVal: 
+  stringEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1459475415
 GameObject:
   m_ObjectHideFlags: 0
@@ -6655,6 +6745,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe1942101bec8934ebbdca4edd8e8384, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1521728749 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1810509964680778925, guid: 151a555d37cbfb5409f9455229e803e8, type: 3}
+  m_PrefabInstance: {fileID: 1521728747}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e33e7db76527d74aa4243bc4b6547d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1522083351
@@ -7153,7 +7254,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 519a8e4db6cb34418ac2882242d642c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flowchart: {fileID: 0}
+  flowchart: {fileID: 1375482986}
 --- !u!4 &1844822353
 Transform:
   m_ObjectHideFlags: 0

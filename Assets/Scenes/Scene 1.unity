@@ -2435,8 +2435,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1375483268}
-  selectedCommands: []
+  - {fileID: 1375483140}
+  selectedCommands:
+  - {fileID: 1375483206}
   variables: []
   description: 
   stepPause: 0
@@ -4384,14 +4385,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1375482983}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bd2f6be51b3d7490ba5633ee095d0391, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   itemId: 223
   indentLevel: 0
-  soundClip: {fileID: 0}
+  soundClip: {fileID: 8300000, guid: 4dcd22fdc374e4303b98e28501e4742b, type: 3}
   volume: 1
   waitUntilFinished: 0
 --- !u!114 &1375483207
