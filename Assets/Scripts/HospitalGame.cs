@@ -1,7 +1,6 @@
 using Fungus;
 using UnityEngine;
 using UnityEngine.UI;
-using System.Collections;
 
 public class HospitalGame : MonoBehaviour
 {
@@ -14,13 +13,8 @@ public class HospitalGame : MonoBehaviour
     [SerializeField] private float multiplier = 0.2f;
     [SerializeField] private float addition = 0.15f;
 
-    private bool gameActive = true;
-
-    void Start()
-    {
-        gameActive = false;
-        StartCoroutine(StartGameBro());
-    }
+    private bool gameActive = false;
+    [SerializeField] private int counter = 0;
 
     private void Update()
     {
@@ -28,8 +22,13 @@ public class HospitalGame : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.J) && LifeForceManager.Instance.lifeForceAmount > 0)
             {
-                otherLife.value += addition;
                 LifeForceManager.Instance.DecrementLifeForceAmount();
+
+                counter++;
+                flowchart.SetIntegerVariable("counter", counter);
+                flowchart.ExecuteBlock("DialogueSet");
+
+                otherLife.value += addition;
             }
             else
             {
@@ -42,13 +41,15 @@ public class HospitalGame : MonoBehaviour
                 gameActive = false;
             }
         }
+
+        // DEBUG PURPOSES ONLY
+        if (Input.GetKeyDown(KeyCode.U)) {
+            StartGame();
+        }
     }
 
-    IEnumerator StartGameBro()
-    {
-        yield return new WaitForSeconds(1.5f);
-        gameActive = true;
-    }
+    public void StartGame() => gameActive = true;
 
+    public void EndGame() => gameActive = false;
 
 }
