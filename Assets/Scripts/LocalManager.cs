@@ -5,17 +5,11 @@ using UnityEngine.SceneManagement;
 public class LocalManager : MonoBehaviour
 {
     [SerializeField] private Flowchart flowchart;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    
     void Start()
     {
         PlayerPrefs.SetString("scene", SceneManager.GetActiveScene().name);
         Stay.Instance.SetLifeForceDisplay(true);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
     }
 
     public void UpdateGirl(string s)
@@ -31,5 +25,15 @@ public class LocalManager : MonoBehaviour
             flowchart.ExecuteBlock("nosave");
         }
         else flowchart.ExecuteBlock("saved");
+    }
+
+    public void SubtractLifeForce(int amount) 
+    {
+        LifeForceManager.Instance.UpdateLifeForceAmount(LifeForceManager.Instance.lifeForceAmount - amount);
+    }
+
+    public void AddLifeForce(int amount) 
+    {
+        LifeForceManager.Instance.UpdateLifeForceAmount(LifeForceManager.Instance.lifeForceAmount + amount);
     }
 }
