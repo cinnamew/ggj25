@@ -36,6 +36,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Three_HospitalGarden.unity
     guid: fce581803558d4de2a0dac65254f3837
   - enabled: 1
+    path: Assets/Scenes/HospitalGame.unity
+    guid: 2f501e743c1e46140ba5b5344adefc33
+  - enabled: 1
     path: Assets/Scenes/Ending.unity
     guid: fcd40c1fbc50b447cb29aecc609ae860
   - enabled: 0
