@@ -20,6 +20,17 @@ public class HospitalGame : MonoBehaviour
     {
         if (gameActive)
         {
+            // Checks for threshold
+            if (otherLife.value <= 0.25f) {
+                multiplier = 0.1f;
+            }
+            else if (otherLife.value <= 0.5f) {
+                multiplier = 0.15f;
+            }
+            else if (otherLife.value > 0.25f) {
+                multiplier = 0.2f;
+            }
+
             if (Input.GetKeyDown(KeyCode.J) && LifeForceManager.Instance.lifeForceAmount > 0)
             {
                 LifeForceManager.Instance.DecrementLifeForceAmount();
@@ -40,11 +51,6 @@ public class HospitalGame : MonoBehaviour
                 flowchart.ExecuteBlock(failBlockName);
                 gameActive = false;
             }
-        }
-
-        // DEBUG PURPOSES ONLY
-        if (Input.GetKeyDown(KeyCode.U)) {
-            StartGame();
         }
     }
 
