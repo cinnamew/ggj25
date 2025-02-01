@@ -13,8 +13,10 @@ public class HospitalGame : MonoBehaviour
     [SerializeField] private float multiplier = 0.2f;
     [SerializeField] private float addition = 0.15f;
 
+    [Header("Gameplay Settings")]
+    [SerializeField] private int requiredLifeForcePerDialogue = 10;
     private bool gameActive = false;
-    [SerializeField] private int counter = 0;
+    private int counter = 0;
 
     private void Update()
     {
@@ -34,11 +36,15 @@ public class HospitalGame : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.J) && LifeForceManager.Instance.lifeForceAmount > 0)
             {
                 LifeForceManager.Instance.DecrementLifeForceAmount();
-
                 counter++;
-                flowchart.SetIntegerVariable("counter", counter);
-                flowchart.ExecuteBlock("DialogueSet");
 
+                if (counter % requiredLifeForcePerDialogue == 0) 
+                {
+                    flowchart.SetIntegerVariable("counter", flowchart.GetIntegerVariable("counter") + 1);
+                    flowchart.StopBlock(flowchart.SelectedBlock.BlockName);
+                    flowchart.ExecuteBlock("DialogueSet");
+                }
+                
                 otherLife.value += addition;
             }
             else
