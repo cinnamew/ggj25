@@ -2437,8 +2437,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1375483268}
-  selectedCommands: []
+  - {fileID: 1375483322}
+  selectedCommands:
+  - {fileID: 1375483319}
   variables: []
   description: 
   stepPause: 0
@@ -7482,7 +7483,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "WH\u2014 ?"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 772765960}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
