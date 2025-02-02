@@ -39,11 +39,13 @@ public class RollCredits : MonoBehaviour
         }
 
         // Final message at the end
-        if (scrollingContainer.localPosition.y >= 4500) 
+        if (scrollingContainer.localPosition.y >= 4500 && !finished) 
         {
             scrolling = false;
-            finished = true;
             timer = 0;
+            fadeFrom = 0;
+            fadeTo = 1;
+            finished = true;
         }
 
         // Actual credits scrolling
@@ -58,7 +60,7 @@ public class RollCredits : MonoBehaviour
             currentIndex++;
         }
         
-        if (finished && timer >= 1f) {
+        if (finished && timer >= 1.5f) {
             SceneManager.LoadScene("Main Menu");
         }
     }
