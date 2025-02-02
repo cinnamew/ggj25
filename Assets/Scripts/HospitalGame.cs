@@ -41,7 +41,7 @@ public class HospitalGame : MonoBehaviour
                 if (counter % requiredLifeForcePerDialogue == 0) 
                 {
                     flowchart.SetIntegerVariable("counter", flowchart.GetIntegerVariable("counter") + 1);
-                    flowchart.StopBlock(flowchart.SelectedBlock.BlockName);
+                    flowchart.StopAllBlocks();
                     flowchart.ExecuteBlock("DialogueSet");
                 }
                 
@@ -53,7 +53,7 @@ public class HospitalGame : MonoBehaviour
             }
             if (otherLife.value <= 0)
             {
-                flowchart.StopBlock(flowchart.SelectedBlock.BlockName);
+                flowchart.StopAllBlocks();
                 flowchart.ExecuteBlock(failBlockName);
                 gameActive = false;
             }
