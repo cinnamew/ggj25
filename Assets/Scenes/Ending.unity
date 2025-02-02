@@ -3657,8 +3657,7 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 1375483289}
+  selectedBlocks: []
   selectedCommands: []
   variables: []
   description: 
@@ -5934,7 +5933,7 @@ MonoBehaviour:
   indentLevel: 0
   _sceneName:
     stringRef: {fileID: 0}
-    stringVal: Main Menu
+    stringVal: Credits
   loadingImage: {fileID: 0}
   sceneNameOLD: 
 --- !u!114 &1375483293
@@ -6961,7 +6960,7 @@ MonoBehaviour:
   indentLevel: 0
   _sceneName:
     stringRef: {fileID: 0}
-    stringVal: Main Menu
+    stringVal: Credits
   loadingImage: {fileID: 0}
   sceneNameOLD: 
 --- !u!1 &1459475415
