@@ -39,8 +39,9 @@ public class RollCredits : MonoBehaviour
         }
 
         // Final message at the end
-        if (scrollingContainer.localPosition.y >= 4500 && !finished) 
+        if (scrollingContainer.localPosition.y >= 4600 && !finished) 
         {
+            // cardBubbles[3].gameObject.SetActive(false);
             scrolling = false;
             timer = 0;
             fadeFrom = 0;
@@ -52,15 +53,15 @@ public class RollCredits : MonoBehaviour
         if (scrolling) scrollingContainer.position += scrollingSpeed * Time.deltaTime * Vector3.up;
 
         // Pop the funny bubbles - waiting for the pop frame
-        if (currentIndex < cardBubbles.Length && cardBubbles[currentIndex].position.y >= 350) {
-            Debug.Log("Pop for bubble named " + cardBubbles[currentIndex].name);
+        if (currentIndex < cardBubbles.Length && cardBubbles[currentIndex].position.y >= 300) {
+            // Debug.Log("Pop for bubble named " + cardBubbles[currentIndex].name);
             if (currentIndex == 3) {
                 cardBubbles[currentIndex].gameObject.SetActive(false);
             }
             currentIndex++;
         }
         
-        if (finished && timer >= 1.5f) {
+        if (finished && timer >= 4f) {
             SceneManager.LoadScene("Main Menu");
         }
     }
