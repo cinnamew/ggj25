@@ -31,18 +31,8 @@ public class RollCredits : MonoBehaviour
         fade.color = new Color(fade.color.r, fade.color.g, fade.color.b, Mathf.Lerp(fadeFrom, fadeTo, timer));
 
         // End early - Skip credits (Who in their right mind would skip the credits scene???)
-        if (Input.GetKeyDown(KeyCode.Space)) {
-            timer = 0;
-            fadeFrom = 0;
-            fadeTo = 1;
-            finished = true;
-        }
-
-        // Final message at the end
-        if (scrollingContainer.localPosition.y >= 4600 && !finished) 
+        if (Input.GetKeyDown(KeyCode.Space)) 
         {
-            // cardBubbles[3].gameObject.SetActive(false);
-            scrolling = false;
             timer = 0;
             fadeFrom = 0;
             fadeTo = 1;
@@ -53,12 +43,22 @@ public class RollCredits : MonoBehaviour
         if (scrolling) scrollingContainer.position += scrollingSpeed * Time.deltaTime * Vector3.up;
 
         // Pop the funny bubbles - waiting for the pop frame
-        if (currentIndex < cardBubbles.Length && cardBubbles[currentIndex].position.y >= 300) {
-            // Debug.Log("Pop for bubble named " + cardBubbles[currentIndex].name);
-            if (currentIndex == 3) {
+        if (currentIndex < cardBubbles.Length && cardBubbles[currentIndex].position.y >= 300) 
+        {
+            if (currentIndex == cardBubbles.Length - 1) 
+            {
                 cardBubbles[currentIndex].gameObject.SetActive(false);
             }
             currentIndex++;
+        }
+
+        if (cardBubbles[^1].transform.parent.localPosition.y + scrollingContainer.localPosition.y >= 200 && !finished) 
+        {
+            scrolling = false;
+            timer = 0;
+            fadeFrom = 0;
+            fadeTo = 1;
+            finished = true;
         }
         
         if (finished && timer >= 4f) {
