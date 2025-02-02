@@ -718,6 +718,23 @@ PrefabInstance:
       propertyPath: m_PixelPerfect
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1143680488490575834, guid: ce4c736e7abacf14e92ef9b73da7b610, type: 3}
+      propertyPath: m_text
+      value: 'Writer, Director
+
+        cinnamew
+
+        with help from Xi, soupsheep,
+        Florian, Wonyoung, and other members of cinna cult
+
+        Co-Director
+
+        Jonathan
+        Kong-Shi
+
+
+        inspired by The Wishing Star, Mouthwashing'
+      objectReference: {fileID: 0}
     - target: {fileID: 1187632190497691810, guid: ce4c736e7abacf14e92ef9b73da7b610, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0.5
