@@ -3666,8 +3666,7 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 1235777323}
+  selectedBlocks: []
   selectedCommands: []
   variables: []
   description: 
@@ -5624,7 +5623,6 @@ SceneRoots:
   - {fileID: 1069991886}
   - {fileID: 691469860}
   - {fileID: 1862574487}
-  - {fileID: 947766747}
   - {fileID: 505548115}
   - {fileID: 1676888453}
   - {fileID: 2063954549}
@@ -5632,3 +5630,4 @@ SceneRoots:
   - {fileID: 1235777325}
   - {fileID: 509312786}
   - {fileID: 1116300122}
+  - {fileID: 947766747}

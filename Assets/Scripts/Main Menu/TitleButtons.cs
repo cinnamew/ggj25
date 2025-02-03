@@ -9,7 +9,7 @@ public class TitleButtons : MonoBehaviour
 
     void Start()
     {
-
+        Stay.Instance.SetLifeForceDisplay(false);
     }
 
     // Update is called once per frame

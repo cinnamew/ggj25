@@ -18,6 +18,7 @@ public class RollCredits : MonoBehaviour
 
     private void Start() 
     {
+        Stay.Instance.SetLifeForceDisplay(false);
         timer -= delayInSeconds;
     }
 
