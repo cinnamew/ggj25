@@ -10,8 +10,8 @@ public class RollCredits : MonoBehaviour
     private float delayInSeconds = 2f;
     private float timer = 0f;
     private bool scrolling = false;
-    private int currentIndex;
     private bool finished = false;
+    private int currentIndex;
 
     private void Start() 
     {
@@ -23,29 +23,27 @@ public class RollCredits : MonoBehaviour
     {
         // Timer related stuff
         timer += Time.deltaTime;
-        if (timer > delayInSeconds) scrolling = true;
+        if (timer > delayInSeconds && !finished) scrolling = true;
 
         // Actual credits scrolling
         if (scrolling) scrollingContainer.position += scrollingSpeed * Time.deltaTime * Vector3.up;
 
-        // Pop the funny bubbles - waiting for the pop frame
-        if (currentIndex < cardBubbles.Length && cardBubbles[currentIndex].position.y >= 300) 
+        // Pop the funny bubbles - waiting for the pop frame (WIP)
+        if (currentIndex < cardBubbles.Length && cardBubbles[currentIndex].position.y >= (550 * scrollingContainer.parent.transform.localScale.y)) 
         {
-            if (currentIndex == cardBubbles.Length - 1) 
-            {
-                cardBubbles[currentIndex].gameObject.SetActive(false);
-            }
+            // cardBubbles[currentIndex].gameObject.SetActive(false);
             currentIndex++;
         }
+        if (cardBubbles[^1].transform.position.y >= (250 * scrollingContainer.parent.transform.localScale.y)) 
+        {
+            cardBubbles[^1].gameObject.SetActive(false);
+        }
 
-        if (cardBubbles[^1].transform.parent.localPosition.y + scrollingContainer.localPosition.y >= 200 && !finished) 
+        // Final message at the end
+        if (cardBubbles[^1].transform.position.y >= (450 * scrollingContainer.parent.transform.localScale.y) && !finished) 
         {
             scrolling = false;
             finished = true;
-        }
-        
-        if (finished) 
-        {
             if (!flowchart.HasExecutingBlocks()) 
             {
                 flowchart.ExecuteBlock("fade-away");
