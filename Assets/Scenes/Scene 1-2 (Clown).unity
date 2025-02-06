@@ -2619,7 +2619,7 @@ AudioSource:
   m_GameObject: {fileID: 1127099814}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: -7526398708962899003, guid: 9a7c7bcfaddac4993a208d905a4cd35a, type: 2}
   m_audioClip: {fileID: 8300000, guid: 440a18647764f2145abdfd82886e2e5f, type: 3}
   m_Resource: {fileID: 8300000, guid: 440a18647764f2145abdfd82886e2e5f, type: 3}
   m_PlayOnAwake: 1
@@ -3055,6 +3055,10 @@ PrefabInstance:
       propertyPath: flowchart
       value: 
       objectReference: {fileID: 1375482986}
+    - target: {fileID: 5877378002284776577, guid: 151a555d37cbfb5409f9455229e803e8, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 3302830503435636147, guid: 9a7c7bcfaddac4993a208d905a4cd35a, type: 2}
     - target: {fileID: 8285794417535758517, guid: 151a555d37cbfb5409f9455229e803e8, type: 3}
       propertyPath: m_Name
       value: BubbleMechanic
