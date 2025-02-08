@@ -9,12 +9,13 @@ public class TitleButtons : MonoBehaviour
 
     void Start()
     {
-        Stay.Instance.SetLifeForceDisplay(false);
-        SaveMenu g = FindAnyObjectByType<SaveMenu>();
-        if (g != null) 
-        {
-            Destroy(g.gameObject);
-        }
+        // Stay.Instance.SetLifeForceDisplay(false);
+        // SaveMenu g = FindAnyObjectByType<SaveMenu>();
+        // if (g != null) 
+        // {
+        //     g.gameObject.SetActive(true);
+        // }
+        Stay.Instance.gameObject.SetActive(false);
     }
 
     // Update is called once per frame
