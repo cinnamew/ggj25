@@ -74,6 +74,7 @@ namespace Fungus
             if (!narrativeLogActive)
             {
                 narrativeLogMenuGroup.alpha = 0f;
+                narrativeLogMenuGroup.blocksRaycasts = false;
             }
 
             //Clear up the lorem ipsum
@@ -193,6 +194,7 @@ namespace Fungus
             }
 
             narrativeLogActive = !narrativeLogActive;
+            narrativeLogMenuGroup.blocksRaycasts = narrativeLogActive;
         }
     
         #endregion
