@@ -1,6 +1,6 @@
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using Fungus;
 
 //You'll need to set up stuff in the editor, but you shouldn't really need to touch this script :)
 public class TitleButtons : MonoBehaviour
@@ -10,6 +10,11 @@ public class TitleButtons : MonoBehaviour
     void Start()
     {
         Stay.Instance.SetLifeForceDisplay(false);
+        SaveMenu g = FindAnyObjectByType<SaveMenu>();
+        if (g != null) 
+        {
+            Destroy(g.gameObject);
+        }
     }
 
     // Update is called once per frame

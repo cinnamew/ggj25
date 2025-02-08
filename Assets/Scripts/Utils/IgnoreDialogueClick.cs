@@ -20,16 +20,18 @@ public class IgnoreDialogueClick : MonoBehaviour, IPointerEnterHandler, IPointer
 
     public void ChangeClick()
     {
-        if (!disabled)
-        {
-            ChangeDialogInputClickMode(ClickMode.Disabled);
-            disabled = true;
-        }
-        else
-        {
-            disabled = false;
-            ChangeDialogInputClickMode(ClickMode.ClickAnywhere);
-        }
+        // if (!disabled)
+        // {
+        //     ChangeDialogInputClickMode(ClickMode.Disabled);
+        //     disabled = true;
+        // }
+        // else
+        // {
+        //     disabled = false;
+        //     ChangeDialogInputClickMode(ClickMode.ClickAnywhere);
+        // }
+        ChangeDialogInputClickMode(disabled ? ClickMode.ClickAnywhere : ClickMode.Disabled);
+        disabled = !disabled;
         //print(disabled);
     }
 
