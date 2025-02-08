@@ -5,39 +5,31 @@ using Fungus;
 public class IgnoreDialogueClick : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
     bool disabled = false;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-
-    }
-
-
 
     public void OnPointerEnter(PointerEventData pointerEventData)
     {
         // if (DialogueManager.Instance != null) DialogueManager.Instance.ChangeDialogInputClickMode(ClickMode.Disabled);
+        // DialogInput dialogInput = FindAnyObjectByType<DialogInput>();
+        // if (dialogInput != null) dialogInput.clickMode = ClickMode.Disabled;
+        ChangeDialogInputClickMode(ClickMode.Disabled);
     }
 
     public void ChangeClick()
     {
-        // if (!disabled)
-        // {
-        //     ChangeDialogInputClickMode(ClickMode.Disabled);
-        //     disabled = true;
-        // }
-        // else
-        // {
-        //     disabled = false;
-        //     ChangeDialogInputClickMode(ClickMode.ClickAnywhere);
-        // }
         ChangeDialogInputClickMode(disabled ? ClickMode.ClickAnywhere : ClickMode.Disabled);
         disabled = !disabled;
-        //print(disabled);
     }
 
     public void EnableClick()
     {
+        disabled = false;
         ChangeDialogInputClickMode(ClickMode.ClickAnywhere);
+    }
+
+    public void DisableClick() 
+    {
+        disabled = true;
+        ChangeDialogInputClickMode(ClickMode.Disabled);
     }
 
     //Detect when Cursor leaves the GameObject
