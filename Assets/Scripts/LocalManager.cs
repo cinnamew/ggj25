@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 public class LocalManager : MonoBehaviour
 {
     [SerializeField] private Flowchart flowchart;
-    [SerializeField] private Writer writer;
     
     void Start()
     {
