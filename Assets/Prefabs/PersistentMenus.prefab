@@ -505,6 +505,7 @@ MonoBehaviour:
   mainMixer: {fileID: 24100000, guid: 9a7c7bcfaddac4993a208d905a4cd35a, type: 2}
   musicSlider: {fileID: 6231969041449724179}
   sfxSlider: {fileID: 6192420635293769013}
+  writingSpeedSlider: {fileID: 2652241183753742649}
 --- !u!1 &386683401122059793
 GameObject:
   m_ObjectHideFlags: 0
@@ -2638,8 +2639,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2637906529778835630}
   m_HandleRect: {fileID: 6533770374424540435}
   m_Direction: 2
-  m_Value: 1
-  m_Size: 0.5002763
+  m_Value: 1.0000001
+  m_Size: 0.49082908
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -4162,9 +4163,9 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1513430951215298043}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 1
+  m_MaxValue: 60
   m_WholeNumbers: 0
-  m_Value: 1
+  m_Value: 60
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []

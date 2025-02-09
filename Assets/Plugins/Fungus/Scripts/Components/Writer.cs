@@ -947,6 +947,16 @@ namespace Fungus
         }
 
         /// <summary>
+        /// Changes the writing speed.
+        /// </summary>
+        /// <param name="newSpeed">New speed value.</param>
+        public void SetWritingSpeed(float newSpeed) 
+        {
+            writingSpeed = newSpeed;
+            currentWritingSpeed = newSpeed;
+        }
+
+        /// <summary>
         /// Writes text using a typewriter effect to a UI text object.
         /// </summary>
         /// <param name="content">Text to be written</param>
