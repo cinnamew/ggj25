@@ -7,6 +7,8 @@ public class Settings : MonoBehaviour
 {
     [SerializeField] private AudioMixer mainMixer;
     [SerializeField] private Slider musicSlider, sfxSlider, writingSpeedSlider;
+    public delegate void OnWritingSpeedChanged();
+    public static OnWritingSpeedChanged onWritingSpeedChanged;
     
     void Start() {
         musicSlider.value = PlayerPrefs.GetFloat(Globals.MUSIC_VOLUME, 1f);
@@ -31,10 +33,8 @@ public class Settings : MonoBehaviour
 
         writingSpeedSlider.onValueChanged.AddListener(val =>
         {
-            // if (DialogueManager.Instance != null) DialogueManager.Instance.ChangeWritingSpeed(val);
             PlayerPrefs.SetFloat(Globals.WRITING_SPEED, val);
-            LocalManager lm = FindAnyObjectByType<LocalManager>();
-            if (lm != null) lm.ChangeWritingSpeed();
+            onWritingSpeedChanged?.Invoke();
         });
     }
 }
