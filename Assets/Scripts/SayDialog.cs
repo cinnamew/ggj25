@@ -3,11 +3,6 @@ using UnityEngine;
 
 public class SayDialog : MonoBehaviour
 {
-    private void Start() 
-    {
-        UpdateWritingSpeed();
-    }
-
     private void UpdateWritingSpeed() 
     {
         GetComponent<Writer>().SetWritingSpeed(PlayerPrefs.GetFloat(Globals.WRITING_SPEED));
@@ -15,6 +10,7 @@ public class SayDialog : MonoBehaviour
 
     private void OnEnable() 
     {
+        UpdateWritingSpeed();
         Settings.onWritingSpeedChanged += UpdateWritingSpeed;
     }
 
