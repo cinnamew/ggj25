@@ -1,6 +1,6 @@
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using Fungus;
 
 //You'll need to set up stuff in the editor, but you shouldn't really need to touch this script :)
 public class TitleButtons : MonoBehaviour
@@ -9,7 +9,14 @@ public class TitleButtons : MonoBehaviour
 
     void Start()
     {
-        Stay.Instance.SetLifeForceDisplay(false);
+        // Stay.Instance.SetLifeForceDisplay(false);
+        // SaveMenu g = FindAnyObjectByType<SaveMenu>();
+        // if (g != null) 
+        // {
+        //     g.gameObject.SetActive(true);
+        // }
+        // Stay.Instance.gameObject.SetActive(false);
+        Stay.Instance.SetOptionsDisplay(false);
     }
 
     // Update is called once per frame
@@ -36,7 +43,7 @@ public class TitleButtons : MonoBehaviour
 
     public void Settings()
     {
-
+        Stay.Instance.ShowSettingsMenu();
     }
 
     public void Quit()

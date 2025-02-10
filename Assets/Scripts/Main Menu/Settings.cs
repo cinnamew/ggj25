@@ -6,7 +6,9 @@ using UnityEngine.UI;
 public class Settings : MonoBehaviour
 {
     [SerializeField] private AudioMixer mainMixer;
-    [SerializeField] private Slider musicSlider, sfxSlider;
+    [SerializeField] private Slider musicSlider, sfxSlider, writingSpeedSlider;
+    public delegate void OnWritingSpeedChanged();
+    public static OnWritingSpeedChanged onWritingSpeedChanged;
     
     void Start() {
         musicSlider.value = PlayerPrefs.GetFloat(Globals.MUSIC_VOLUME, 1f);
@@ -27,6 +29,12 @@ public class Settings : MonoBehaviour
         {
             mainMixer.SetFloat(Globals.SFX_VOLUME, 20 * Mathf.Log10(val + float.Epsilon));
             PlayerPrefs.SetFloat(Globals.SFX_VOLUME, val);
+        });
+
+        writingSpeedSlider.onValueChanged.AddListener(val =>
+        {
+            PlayerPrefs.SetFloat(Globals.WRITING_SPEED, val);
+            onWritingSpeedChanged?.Invoke();
         });
     }
 }
