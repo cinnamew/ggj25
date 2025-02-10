@@ -1,5 +1,7 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
+using Fungus;
+using UnityEngine.UI;
 
 public class SideButtons : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
@@ -14,23 +16,35 @@ public class SideButtons : MonoBehaviour, IPointerEnterHandler, IPointerExitHand
 
     public void ToggleFakePanel()
     {
-        if (blocker.activeSelf && (history.blocksRaycasts == true || settings.activeSelf)) {
+        if (blocker.activeSelf && (history.blocksRaycasts || settings.activeSelf)) {
             return;
         }
         blocker.SetActive(!blocker.activeSelf);
-        GetComponent<IgnoreDialogueClick>().ChangeDialogInputClickMode(blocker.activeSelf ? Fungus.ClickMode.Disabled : Fungus.ClickMode.ClickAnywhere);
-        // Debug.Log();
+        GetComponent<IgnoreDialogueClick>().ChangeDialogInputClickMode(blocker.activeSelf ? ClickMode.Disabled : ClickMode.ClickAnywhere);
     }
 
     public void OnPointerEnter(PointerEventData eventData)
     {
         if (blocker.activeSelf) return;
-        GetComponent<IgnoreDialogueClick>().ChangeDialogInputClickMode(Fungus.ClickMode.Disabled);
+        GetComponent<IgnoreDialogueClick>().ChangeDialogInputClickMode(ClickMode.Disabled);
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
         if (blocker.activeSelf) return;
-        GetComponent<IgnoreDialogueClick>().ChangeDialogInputClickMode(Fungus.ClickMode.ClickAnywhere);
+        GetComponent<IgnoreDialogueClick>().ChangeDialogInputClickMode(ClickMode.ClickAnywhere);
+    }
+
+    public void Reset() 
+    {
+        settings.SetActive(false);
+        blocker.SetActive(false);
+        if (history.blocksRaycasts) {
+            transform.parent.parent.GetComponent<NarrativeLogMenu>().ToggleNarrativeLogView();
+        }
+        GetComponent<IgnoreDialogueClick>().EnableClick();
+        foreach (Button b in GetComponentsInChildren<Button>()) {
+            b.interactable = true;
+        }
     }
 }
