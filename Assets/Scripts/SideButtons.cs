@@ -1,6 +1,7 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 
-public class SideButtons : MonoBehaviour
+public class SideButtons : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
     [SerializeField] CanvasGroup history;
     [SerializeField] GameObject settings;
@@ -19,5 +20,17 @@ public class SideButtons : MonoBehaviour
         blocker.SetActive(!blocker.activeSelf);
         GetComponent<IgnoreDialogueClick>().ChangeDialogInputClickMode(blocker.activeSelf ? Fungus.ClickMode.Disabled : Fungus.ClickMode.ClickAnywhere);
         // Debug.Log();
+    }
+
+    public void OnPointerEnter(PointerEventData eventData)
+    {
+        if (blocker.activeSelf) return;
+        GetComponent<IgnoreDialogueClick>().ChangeDialogInputClickMode(Fungus.ClickMode.Disabled);
+    }
+
+    public void OnPointerExit(PointerEventData eventData)
+    {
+        if (blocker.activeSelf) return;
+        GetComponent<IgnoreDialogueClick>().ChangeDialogInputClickMode(Fungus.ClickMode.ClickAnywhere);
     }
 }
