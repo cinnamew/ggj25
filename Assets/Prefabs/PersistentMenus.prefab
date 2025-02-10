@@ -649,8 +649,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5e543f5f60124b4aa4c552e1a4e3a97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  settingsPanel: {fileID: 0}
+  buttons: {fileID: 7010533849295249812}
   lifeForceText: {fileID: 3979912271340945669}
+  settingsMenu: {fileID: 368896221565350995}
 --- !u!1 &1366545014664504155
 GameObject:
   m_ObjectHideFlags: 0

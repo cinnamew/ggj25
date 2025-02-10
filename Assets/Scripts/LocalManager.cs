@@ -9,7 +9,7 @@ public class LocalManager : MonoBehaviour
     void Start()
     {
         PlayerPrefs.SetString("scene", SceneManager.GetActiveScene().name);
-        Stay.Instance.gameObject.SetActive(true);
+        Stay.Instance.SetOptionsDisplay(true);
     }
 
     public void UpdateGirl(string s)
