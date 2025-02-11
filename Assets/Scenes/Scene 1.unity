@@ -2405,6 +2405,8 @@ GameObject:
   - component: {fileID: 1375483335}
   - component: {fileID: 1375483336}
   - component: {fileID: 1375483337}
+  - component: {fileID: 1375483338}
+  - component: {fileID: 1375483339}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -2425,21 +2427,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 449.079, y: 158.95992}
+  scrollPos: {x: 645.8193, y: 197.30553}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 257.5
-  zoom: 0.9715008
+  zoom: 0.94150084
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 1375483322}
-  selectedCommands:
-  - {fileID: 1375483319}
+  selectedBlocks: []
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -2809,6 +2809,7 @@ MonoBehaviour:
   - {fileID: 1375483200}
   - {fileID: 1375483199}
   - {fileID: 1375483198}
+  - {fileID: 1375483339}
   - {fileID: 1375483197}
   - {fileID: 1375483196}
   - {fileID: 1375483195}
@@ -4172,8 +4173,7 @@ MonoBehaviour:
   itemId: 215
   indentLevel: 0
   storyText: "{i}He shows you his phone screen. A single notification: Duolingo \u2014
-    a reminder of a failed 132-day streak.\nboy: I\u2019ve been up here since last
-    night.\n"
+    a reminder of a failed 132-day streak.\n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4937,7 +4937,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -285.45087
+    x: -284.38873
     y: 105.13508
     width: 168.20999
     height: 40
@@ -6225,13 +6225,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 297
   indentLevel: 0
-  storyText: '{i} The siren muffles his quiet words. You turn to reading his lips,
-    chapped by the brazen wind.
-
-    boy: I guess that was the push I needed.{wc}Thanks
-    for being here.
-
-    He takes a breath.'
+  storyText: '{i}The siren muffles his quiet words. You turn to reading his lips,
+    chapped by the brazen wind.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6550,7 +6545,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -114.42905
+    x: -113.36691
     y: 267.86218
     width: 74.53
     height: 40
@@ -6575,6 +6570,7 @@ MonoBehaviour:
   - {fileID: 1375483275}
   - {fileID: 1375483274}
   - {fileID: 1375483272}
+  - {fileID: 1375483338}
   - {fileID: 1375483273}
   - {fileID: 1375483331}
   - {fileID: 1375483270}
@@ -8037,6 +8033,63 @@ MonoBehaviour:
   stringEvent:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &1375483338
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 353
+  indentLevel: 0
+  storyText: 'I guess that was the push I needed.{wc}Thanks for being here.
+
+    He
+    takes a breath.'
+  description: 
+  character: {fileID: 641985020}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1375483339
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 354
+  indentLevel: 0
+  storyText: "I\u2019ve been up here since last night."
+  description: 
+  character: {fileID: 641985020}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &1443441896
 GameObject:
   m_ObjectHideFlags: 0
