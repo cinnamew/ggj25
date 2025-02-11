@@ -3662,10 +3662,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 1375482985}
-  selectedCommands:
-  - {fileID: 1375483224}
+  selectedBlocks: []
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -5305,7 +5303,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1375483223
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -5317,7 +5315,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 242
   indentLevel: 0
-  description: 
+  description: play rain sfx
   delay: 0
   invokeType: 0
   staticEvent:
@@ -5361,7 +5359,7 @@ MonoBehaviour:
       m_Calls: []
 --- !u!114 &1375483224
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6473,6 +6471,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2997580619635601394, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: b1d74a7e241bd644ab270507d7721134, type: 3}
+    - target: {fileID: 2997580619635601394, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: b1d74a7e241bd644ab270507d7721134, type: 3}
     - target: {fileID: 3624758646681215051, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
