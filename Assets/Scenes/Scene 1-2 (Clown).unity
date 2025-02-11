@@ -3238,6 +3238,7 @@ GameObject:
   - component: {fileID: 1375483224}
   - component: {fileID: 1375483225}
   - component: {fileID: 1375483226}
+  - component: {fileID: 1375483227}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -3302,6 +3303,7 @@ MonoBehaviour:
   - {fileID: 1375483184}
   - {fileID: 1375483190}
   - {fileID: 1375483193}
+  - {fileID: 1375483227}
   - {fileID: 1375483191}
   - {fileID: 1375483192}
   - {fileID: 1375483194}
@@ -3360,7 +3362,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 1375482985}
   selectedCommands:
-  - {fileID: 1375483221}
+  - {fileID: 1375483227}
   variables: []
   description: 
   stepPause: 0
@@ -4955,6 +4957,62 @@ MonoBehaviour:
   move: 0
   shiftIntoPlace: 0
   waitUntilFinished: 0
+--- !u!114 &1375483227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d9ff288f3904c05ada7ac9c9a075bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 246
+  indentLevel: 0
+  description: play rain
+  delay: 0
+  invokeType: 0
+  staticEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1753324656}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  booleanParameter:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  booleanEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  integerParameter:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  integerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  floatParameter:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  floatEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  stringParameter:
+    stringRef: {fileID: 0}
+    stringVal: 
+  stringEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1459475415
 GameObject:
   m_ObjectHideFlags: 0
@@ -5816,6 +5874,68 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1698047017}
   m_CullTransparentMesh: 1
+--- !u!1001 &1753324655
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3624758646681215051, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3624758646681215051, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3624758646681215051, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3624758646681215051, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3624758646681215051, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3624758646681215051, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3624758646681215051, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3624758646681215051, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3624758646681215051, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3624758646681215051, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4461937726300568218, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+      propertyPath: m_Name
+      value: rainplayer
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+--- !u!82 &1753324656 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 2997580619635601394, guid: 9b2213c1f1a884da8b9d27346a318c08, type: 3}
+  m_PrefabInstance: {fileID: 1753324655}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1934699181
 GameObject:
   m_ObjectHideFlags: 0
@@ -6328,3 +6448,4 @@ SceneRoots:
   - {fileID: 1330361124}
   - {fileID: 1524317218}
   - {fileID: 2063424193}
+  - {fileID: 1753324655}
