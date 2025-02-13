@@ -3239,6 +3239,7 @@ GameObject:
   - component: {fileID: 1375483225}
   - component: {fileID: 1375483226}
   - component: {fileID: 1375483227}
+  - component: {fileID: 1375483228}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -3327,6 +3328,7 @@ MonoBehaviour:
   - {fileID: 1375483212}
   - {fileID: 1375483214}
   - {fileID: 1375483213}
+  - {fileID: 1375483228}
   - {fileID: 1375483216}
   - {fileID: 1375483217}
   - {fileID: 1375483218}
@@ -5013,6 +5015,29 @@ MonoBehaviour:
   stringEvent:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &1375483228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc30c92f7ffe3d746ac76cd528d616e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 247
+  indentLevel: 0
+  control: 3
+  _audioSource:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 1753324656}
+  startVolume: 1
+  endVolume: 1
+  fadeDuration: 0
+  waitUntilFinished: 0
+  audioSourceOLD: {fileID: 0}
 --- !u!1 &1459475415
 GameObject:
   m_ObjectHideFlags: 0
