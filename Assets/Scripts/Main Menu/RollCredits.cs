@@ -6,6 +6,7 @@ public class RollCredits : MonoBehaviour
     [SerializeField] private Flowchart flowchart;
     [SerializeField] private RectTransform scrollingContainer;
     [SerializeField] private float scrollingSpeed = 200f;
+    [SerializeField] private float increasedScrollingSpeed = 400f;
     [SerializeField] private RectTransform[] cardBubbles;
     private float delayInSeconds = 2f;
     private float timer = 0f;
@@ -26,7 +27,8 @@ public class RollCredits : MonoBehaviour
         if (timer > delayInSeconds && !finished) scrolling = true;
 
         // Actual credits scrolling
-        if (scrolling) scrollingContainer.position += scrollingSpeed * Time.deltaTime * Vector3.up;
+        if (scrolling) 
+            scrollingContainer.position += Input.GetKey(KeyCode.Escape) ? increasedScrollingSpeed * Time.deltaTime * Vector3.up : scrollingSpeed * Time.deltaTime * Vector3.up;
 
         // Pop the funny bubbles - waiting for the pop frame (WIP)
         if (currentIndex < cardBubbles.Length && cardBubbles[currentIndex].position.y >= (550 * scrollingContainer.parent.transform.localScale.y)) 
