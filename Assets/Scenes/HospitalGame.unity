@@ -676,8 +676,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 605299281}
+  selectedCommands:
+  - {fileID: 605299310}
   variables:
   - {fileID: 605299278}
   description: 
@@ -2379,8 +2381,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 67
   indentLevel: 1
-  storyText: "And still, despite it all, you can\u2019t save her. You can\u2019t
-    stay here.{wi} Your time is up."
+  storyText: "And still, despite it all, you can\u2019t save her. Could that even
+    be counted as saving?{wc}But it doesn't matter. You can\u2019t stay here.{wi}
+    Your time is up."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
