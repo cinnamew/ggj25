@@ -813,11 +813,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2380922779543986179, guid: 50d1fd147803b6d43aceda0c7b931862, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 32.879375
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2380922779543986179, guid: 50d1fd147803b6d43aceda0c7b931862, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -31.75
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2380922779543986179, guid: 50d1fd147803b6d43aceda0c7b931862, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -885,11 +885,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4636349082886303267, guid: 50d1fd147803b6d43aceda0c7b931862, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -382.50003
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4636349082886303267, guid: 50d1fd147803b6d43aceda0c7b931862, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -210.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4673768407605473400, guid: 50d1fd147803b6d43aceda0c7b931862, type: 3}
       propertyPath: m_AnchorMax.x
@@ -909,11 +909,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4673768407605473400, guid: 50d1fd147803b6d43aceda0c7b931862, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -382.50003
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4673768407605473400, guid: 50d1fd147803b6d43aceda0c7b931862, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 210.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5810954239341101684, guid: 50d1fd147803b6d43aceda0c7b931862, type: 3}
       propertyPath: m_AnchorMax.y
@@ -925,11 +925,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5810954239341101684, guid: 50d1fd147803b6d43aceda0c7b931862, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 112.87937
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5810954239341101684, guid: 50d1fd147803b6d43aceda0c7b931862, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -31.75
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5810954239341101684, guid: 50d1fd147803b6d43aceda0c7b931862, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -965,11 +965,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9188817012085377797, guid: 50d1fd147803b6d43aceda0c7b931862, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 382.50003
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9188817012085377797, guid: 50d1fd147803b6d43aceda0c7b931862, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 210.5
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1440,7 +1440,7 @@ MonoBehaviour:
 
 
     TWs: death, suicide, child sexual assault, chronic illness, violent
-    language (cursing)'
+    language (cursing), mentions of transphobia'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 44743a98ba1404473bfdab5b57246925, type: 2}
   m_sharedMaterial: {fileID: 2819827327327943051, guid: 44743a98ba1404473bfdab5b57246925, type: 2}

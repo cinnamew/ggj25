@@ -3491,11 +3491,9 @@ GameObject:
   - component: {fileID: 1375483493}
   - component: {fileID: 1375483494}
   - component: {fileID: 1375483495}
-  - component: {fileID: 1375483496}
   - component: {fileID: 1375483497}
   - component: {fileID: 1375483498}
   - component: {fileID: 1375483499}
-  - component: {fileID: 1375483500}
   - component: {fileID: 1375483501}
   - component: {fileID: 1375483502}
   - component: {fileID: 1375483503}
@@ -3564,6 +3562,13 @@ GameObject:
   - component: {fileID: 1375483567}
   - component: {fileID: 1375483566}
   - component: {fileID: 1375483568}
+  - component: {fileID: 1375483569}
+  - component: {fileID: 1375483571}
+  - component: {fileID: 1375483573}
+  - component: {fileID: 1375483572}
+  - component: {fileID: 1375483574}
+  - component: {fileID: 1375483576}
+  - component: {fileID: 1375483575}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -3659,17 +3664,22 @@ MonoBehaviour:
   - {fileID: 1375483493}
   - {fileID: 1375483494}
   - {fileID: 1375483499}
-  - {fileID: 1375483496}
   - {fileID: 1375483497}
   - {fileID: 1375483498}
   - {fileID: 1375483495}
-  - {fileID: 1375483500}
   - {fileID: 1375483501}
   - {fileID: 1375483502}
-  - {fileID: 1375483503}
-  - {fileID: 1375483504}
-  - {fileID: 1375483505}
   - {fileID: 1375483506}
+  - {fileID: 1375483504}
+  - {fileID: 1375483571}
+  - {fileID: 1375483572}
+  - {fileID: 1375483574}
+  - {fileID: 1375483503}
+  - {fileID: 1375483573}
+  - {fileID: 1375483575}
+  - {fileID: 1375483576}
+  - {fileID: 1375483505}
+  - {fileID: 1375483569}
   - {fileID: 1375483507}
   - {fileID: 1375483508}
   - {fileID: 1375483509}
@@ -3762,7 +3772,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 1375482985}
   selectedCommands:
-  - {fileID: 1375483568}
+  - {fileID: 1375483534}
   variables: []
   description: 
   stepPause: 0
@@ -3960,14 +3970,14 @@ MonoBehaviour:
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 4606157284126940538, guid: 94acff4dbab294146b72d71989a9e11a, type: 3}
   offset: 0
-  fromPosition: {fileID: 273309492}
-  toPosition: {fileID: 851904069}
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 273309492}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
   moveDuration: 1
   shiftOffset: {x: 0, y: 0}
-  move: 1
+  move: 0
   shiftIntoPlace: 0
   waitUntilFinished: 0
 --- !u!114 &1375483452
@@ -4139,14 +4149,14 @@ MonoBehaviour:
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 4606157284126940538, guid: 94acff4dbab294146b72d71989a9e11a, type: 3}
   offset: 0
-  fromPosition: {fileID: 273309492}
-  toPosition: {fileID: 851904069}
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
   moveDuration: 1
   shiftOffset: {x: 0, y: 0}
-  move: 1
+  move: 0
   shiftIntoPlace: 0
   waitUntilFinished: 0
 --- !u!114 &1375483459
@@ -4196,14 +4206,14 @@ MonoBehaviour:
   replacedCharacter: {fileID: 0}
   portrait: {fileID: 1498994486187017082, guid: e1c126a8861c74329a05f34c652b929b, type: 3}
   offset: 0
-  fromPosition: {fileID: 273309492}
-  toPosition: {fileID: 851904069}
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
   facing: 0
   useDefaultSettings: 1
   fadeDuration: 0.5
   moveDuration: 1
   shiftOffset: {x: 0, y: 0}
-  move: 1
+  move: 0
   shiftIntoPlace: 0
   waitUntilFinished: 0
 --- !u!114 &1375483461
@@ -4907,10 +4917,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 484
   indentLevel: 0
-  storyText: "I don\u2019t know. {wi}I don\u2019t think I can.{wc}I took a class
-    on forgiveness. They said forgiveness only counted when it was impossible to
-    forgive them, when it came with no ties. I don\u2019t think that\u2019s possible.
-    I could only conditionally forgive her."
+  storyText: "I don\u2019t know. {wi}I don\u2019t think I can. And in the first place,
+    it's not my place to.{wc}I took a class on forgiveness. They said forgiveness
+    only counted when it was impossible to forgive them, when it came with no ties.
+    I don\u2019t think that\u2019s possible. I could only conditionally forgive her."
   description: 
   character: {fileID: 620292237}
   portrait: {fileID: 0}
@@ -4992,7 +5002,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 487
   indentLevel: 0
-  storyText: "Someone once told me that too, but then it\u2019d be complicated."
+  storyText: "Someone once told me that too. But if that was true, it\u2019d get
+    complicated."
   description: 
   character: {fileID: 620292237}
   portrait: {fileID: 0}
@@ -5108,7 +5119,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 491
   indentLevel: 0
-  storyText: You can tell her you love her.
+  storyText: Will you ever tell her you love her?
   description: 
   character: {fileID: 974924448}
   portrait: {fileID: 0}
@@ -5135,36 +5146,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 492
   indentLevel: 0
-  storyText: "...I don\u2019t remember."
+  storyText: "...I don\u2019t remember.{wc}Definitely before my brother transitioned...
+    she won't even talk to him now. It's as if I'm her only kid.{wc}But still, she
+    raised me. I hate it, but I can't help but be tied to her."
   description: 
   character: {fileID: 620292237}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1375483496
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1375482983}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 493
-  indentLevel: 0
-  storyText: '{i}Beats you, too.'
-  description: 
-  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -5244,38 +5230,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 496
   indentLevel: 0
-  storyText: "I probably will, when she passes. {wi}I\u2019ll probably say it at
-    her funeral a hundred dozen million times.{wc}I just can\u2019t say it now, for
-    some weird reason. Why does it take so much effort to say three words?"
+  storyText: "As much as I don't want to, I probably will when she passes. {wi}I\u2019ll
+    probably say it at her funeral a hundred dozen million times.{wc}I just can\u2019t
+    say it now. Not when she won't even talk to my brother..."
   description: 
   character: {fileID: 620292237}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1375483500
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1375482983}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 497
-  indentLevel: 0
-  storyText: Me neither.
-  description: 
-  character: {fileID: 974924448}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -5300,7 +5259,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 498
   indentLevel: 0
-  storyText: '{i}Despite it all, you miss her.'
+  storyText: '{i}You as well. {wi}Despite it all, you miss her.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5327,7 +5286,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 499
   indentLevel: 0
-  storyText: "I think you should say something before it\u2019s too late."
+  storyText: "Do you think you'll feel better if you say something before it\u2019s
+    too late?"
   description: 
   character: {fileID: 974924448}
   portrait: {fileID: 0}
@@ -5354,7 +5314,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 500
   indentLevel: 0
-  storyText: '{i}You wish you could stay here.'
+  storyText: '{i}How deeply you wished that too.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5381,7 +5341,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 501
   indentLevel: 0
-  storyText: I can keep her alive for as long as you want.
+  storyText: She is your mother, after all.
   description: 
   character: {fileID: 974924448}
   portrait: {fileID: 0}
@@ -5437,8 +5397,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 503
   indentLevel: 0
-  storyText: "Huh? So you were only saying you\u2019d keep her alive to push me to
-    tell her stuff?"
+  storyText: I did. We fought a lot about it. I don't understand the point in loving
+    someone if you'd take that away the second they don't fit your perfect little
+    box.{wc}And still, I mean...{wi} she's my mom, you know?{wc}I can't be a bystander
+    to blatant hate, but I am. I'm in the middle of the two, trying to support my
+    brother but unwilling to cut ties.
   description: 
   character: {fileID: 620292237}
   portrait: {fileID: 0}
@@ -6216,7 +6179,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "{i}The ground kisses your elbow before you realize your legs had given
     out. Spots of your hands and torso are eerily transparent, like in that one movie
-    you watched with your father. Back to the Future or something, but you\u2019re
+    you watched with your mother. Back to the Future or something, but you\u2019re
     just Back to the Real World now."
   description: 
   character: {fileID: 0}
@@ -7104,6 +7067,198 @@ MonoBehaviour:
     stringVal: Ending
   loadingImage: {fileID: 0}
   sceneNameOLD: 
+--- !u!114 &1375483569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 566
+  indentLevel: 0
+  storyText: "Huh? So you were only saying you\u2019d keep her alive to push me to
+    tell her...?"
+  description: 
+  character: {fileID: 620292237}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1375483571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 568
+  indentLevel: 0
+  storyText: That she is.
+  description: 
+  character: {fileID: 620292237}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1375483572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 570
+  indentLevel: 0
+  storyText: What would make you feel better?
+  description: 
+  character: {fileID: 974924448}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1375483573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 569
+  indentLevel: 0
+  storyText: I can't make that happen, but maybe you could.{wc}You can redefine what
+    love means to you, if only just to your mother.
+  description: 
+  character: {fileID: 974924448}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1375483574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 571
+  indentLevel: 0
+  storyText: Honestly? I just want this family to be fine again. I wish we could
+    all love each other again.
+  description: 
+  character: {fileID: 620292237}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1375483575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 573
+  indentLevel: 0
+  storyText: '{i}You wish you could stay here.'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1375483576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375482983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 572
+  indentLevel: 0
+  storyText: I can keep her alive for as long as you want.
+  description: 
+  character: {fileID: 974924448}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &1459475415
 GameObject:
   m_ObjectHideFlags: 0
